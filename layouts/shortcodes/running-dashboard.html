@@ -61,108 +61,76 @@
     }
 </style>
 
-<div class="running-dashboard" data-strava-endpoint="{{ .Site.Params.stravaLatestEndpoint | default "" }}">
-    <div class="run-hero" id="latest-run">
+{{ $data := .Site.Data.strava.latest }}
+{{ if not $data }}
+<div class="running-dashboard">
+    <div class="run-hero">
         <div class="run-hero-header">
             <div class="run-hero-title">Latest Run</div>
-            <div class="run-hero-subtitle" id="latest-run-date">Loading…</div>
+            <div class="run-hero-subtitle">No data yet</div>
         </div>
-        <div class="run-hero-name" id="latest-run-name">Fetching your most recent activity…</div>
+        <div class="run-hero-name">Waiting on your weekly update…</div>
+        <div class="run-error">Add data at data/strava/latest.json or run the GitHub Action.</div>
+    </div>
+</div>
+{{ else }}
+{{ $distanceM := float $data.distance_m }}
+{{ $miles := div $distanceM 1609.344 }}
+{{ $moving := int $data.moving_time_s }}
+{{ $elev := int $data.total_elevation_gain_m }}
+
+{{ $paceTotal := 0 }}
+{{ if gt $miles 0.0 }}
+    {{ $paceSec := div (float $moving) $miles }}
+    {{ $paceTotal = int (math.Round $paceSec) }}
+{{ end }}
+{{ $paceMin := div $paceTotal 60 }}
+{{ $paceSecs := mod $paceTotal 60 }}
+
+{{ $hours := div $moving 3600 }}
+{{ $minutes := div (mod $moving 3600) 60 }}
+{{ $seconds := mod $moving 60 }}
+
+{{ $timeStr := printf "%d:%02d" $minutes $seconds }}
+{{ if gt $hours 0 }}
+    {{ $timeStr = printf "%d:%02d:%02d" $hours $minutes $seconds }}
+{{ end }}
+
+{{ $paceStr := "—" }}
+{{ if gt $miles 0.0 }}
+    {{ $paceStr = printf "%d:%02d /mi" $paceMin $paceSecs }}
+{{ end }}
+
+{{ $dateStr := "" }}
+{{ if $data.start_date_local }}
+    {{ $dateStr = (time $data.start_date_local) | time.Format "Jan 2, 2006" }}
+{{ end }}
+
+<div class="running-dashboard">
+    <div class="run-hero">
+        <div class="run-hero-header">
+            <div class="run-hero-title">Latest Run</div>
+            <div class="run-hero-subtitle">{{ $dateStr }}</div>
+        </div>
+        <div class="run-hero-name">{{ $data.name }}</div>
         <div class="run-hero-grid">
             <div class="run-stat">
                 <div class="run-stat-label">Distance</div>
-                <div class="run-stat-value" id="latest-run-distance">—</div>
+                <div class="run-stat-value">{{ printf "%.2f mi" $miles }}</div>
             </div>
             <div class="run-stat">
                 <div class="run-stat-label">Time</div>
-                <div class="run-stat-value" id="latest-run-time">—</div>
+                <div class="run-stat-value">{{ $timeStr }}</div>
             </div>
             <div class="run-stat">
                 <div class="run-stat-label">Pace</div>
-                <div class="run-stat-value" id="latest-run-pace">—</div>
+                <div class="run-stat-value">{{ $paceStr }}</div>
             </div>
             <div class="run-stat">
                 <div class="run-stat-label">Elevation</div>
-                <div class="run-stat-value" id="latest-run-elevation">—</div>
+                <div class="run-stat-value">{{ printf "%d m" $elev }}</div>
             </div>
         </div>
-        <div class="run-hero-subtitle" id="latest-run-meta"></div>
-        <div class="run-error" id="latest-run-error" style="display:none"></div>
     </div>
 </div>
-
-<script>
-(() => {
-    const root = document.querySelector('.running-dashboard');
-    if (!root) return;
-    const endpoint = root.getAttribute('data-strava-endpoint');
-
-    const setText = (id, value) => {
-        const el = document.getElementById(id);
-        if (el) el.textContent = value;
-    };
-
-    const showError = (message) => {
-        const el = document.getElementById('latest-run-error');
-        if (!el) return;
-        el.style.display = 'block';
-        el.textContent = message;
-    };
-
-    const metersToMiles = (m) => m / 1609.344;
-    const secondsToHms = (s) => {
-        const hrs = Math.floor(s / 3600);
-        const mins = Math.floor((s % 3600) / 60);
-        const secs = Math.floor(s % 60);
-        const pad = (n) => String(n).padStart(2, '0');
-        if (hrs > 0) return `${hrs}:${pad(mins)}:${pad(secs)}`;
-        return `${mins}:${pad(secs)}`;
-    };
-    const paceFrom = (seconds, miles) => {
-        if (!miles || miles <= 0 || !seconds) return '—';
-        const paceSec = seconds / miles;
-        const mins = Math.floor(paceSec / 60);
-        const secs = Math.round(paceSec % 60);
-        return `${mins}:${String(secs).padStart(2, '0')} /mi`;
-    };
-
-    if (!endpoint) {
-        setText('latest-run-name', 'Strava endpoint not configured yet.');
-        setText('latest-run-date', '');
-        showError('Set params.stravaLatestEndpoint in hugo.toml to your serverless endpoint.');
-        return;
-    }
-
-    fetch(endpoint, { cache: 'no-store' })
-        .then((res) => {
-            if (!res.ok) throw new Error(`Request failed: ${res.status}`);
-            return res.json();
-        })
-        .then((activity) => {
-            const name = activity.name || 'Latest Run';
-            const dateStr = activity.start_date_local || activity.start_date || '';
-            const distanceM = activity.distance_m ?? activity.distance ?? 0;
-            const movingTimeS = activity.moving_time_s ?? activity.moving_time ?? 0;
-            const elevationM = activity.total_elevation_gain_m ?? activity.total_elevation_gain ?? 0;
-
-            const miles = metersToMiles(distanceM);
-            const distance = miles > 0 ? `${miles.toFixed(2)} mi` : '—';
-            const time = movingTimeS ? secondsToHms(movingTimeS) : '—';
-            const pace = paceFrom(movingTimeS, miles);
-            const elevation = `${Math.round(elevationM)} m`;
-
-            setText('latest-run-name', name);
-            setText('latest-run-date', dateStr ? new Date(dateStr).toLocaleDateString() : '');
-            setText('latest-run-distance', distance);
-            setText('latest-run-time', time);
-            setText('latest-run-pace', pace);
-            setText('latest-run-elevation', elevation);
-            setText('latest-run-meta', dateStr ? new Date(dateStr).toLocaleTimeString() : '');
-        })
-        .catch((err) => {
-            setText('latest-run-name', 'Unable to load latest activity.');
-            setText('latest-run-date', '');
-            showError(err.message || 'Unknown error');
-        });
-})();
-</script>
+{{ end }}

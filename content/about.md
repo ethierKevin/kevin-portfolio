@@ -6,15 +6,17 @@ layout: "single"
 
 ### From Bare Metal to the Cloud
 
-I’ve spent the last decade deep in the trenches of enterprise data storage. My career was built on the "bare metal" of the industry—mastering block and file storage as a Sustaining Engineer at Dell Technologies. I thrive on the grit of troubleshooting complex, mission-critical systems where downtime isn't an option.
+I did not start in a computer lab. I started in a small town with a lot of energy and not enough direction. At 17, I traded that uncertainty for the structure of the military where I found myself operating Air Force radar systems and flying satellites. It was my first taste of critical applications and services but the path was not linear after that.
 
-Today, I’ve pivoted that expertise to the cutting edge of cloud infrastructure, supporting S3-compatible storage and AWS architectures. I don’t just move data; I optimize the systems that hold the world’s most valuable assets.
+I spent years in the real world working construction, landscaping, and waiting tables. I know what it feels like to work a job that demands everything from your body but nothing from your mind. That is where I found mathematics. I fell in love with the absolute nature of it. I loved the feeling of knowing a solution is right because the logic holds.
 
-### The Human Side: Optimization is a Lifestyle
+I fought my way through an ECE degree while battling a persistent sense of impostor syndrome. When you come from the trades, sitting in a high tech office can feel like a cheap trick. But I did not have the luxury of quitting. For me, failure meant going back to the shovel and that was not an option.
 
-When I’m not architecting cloud solutions, I’m usually chasing a new Personal Best. Whether it’s training for a sub-5-minute mile, perfecting my golf swing, skiing with my family in Massachusetts, or traveling and cooking, I am driven by the "1% better" mindset. 
+My career has been defined by the Indeterminant State. At Dell, I found my niche in the high pressure world of data recovery. I took broken, chaotic storage arrays and brought them back to life. I learned that I am at my best when things are at their worst.
 
-I’m a husband, a dad, and a lifelong builder. From copycat cookie recipes to local hardware projects on a Raspberry Pi Pico, I love the process of taking something apart to understand how to make it faster, stronger, and more efficient. I’m excited to see where the next chapter of this story goes—likely somewhere at the intersection of AI, Cloud, and high-performance systems.
+I have navigated significant personal loss and family instability that taught me how to stay grounded when everything else is falling apart. Today, I am navigating the complex world of S3 cloud storage at Wasabi. It has not been easy. The transition involved major personal and professional sacrifices but I keep showing up. I run to keep my mind sharp and I build to keep my skills sharper.
+
+I am not a textbook engineer. I am a seasoned problem solver who knows exactly what it is like to have everything on the line. I do not just fix systems. I outlast them.
 
 ### Technical Arsenal
 * **Storage:** S3/Object Storage, Dell Unity, Midrange Block/File, Bare Metal.
