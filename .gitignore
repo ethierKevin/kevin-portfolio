@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Hugo
+/public/
+/resources/
+/.hugo_build.lock
+
+# Scratch / misc
+/SCRATCH/
+
+# Node
+/node_modules/
+
+# Env
+.env
+.env.*
