@@ -1,0 +1,48 @@
+baseURL = 'https://kevinethier.com/'
+languageCode = 'en-us'
+title = 'Kevin Ethier | Senior Systems Engineer'
+theme="PaperMod"
+
+[params]
+    env = "development"
+    title = "Kevin Ethier | Systems Architect"
+    description = "Senior Systems Engineer & Marathoner"
+
+    # THIS IS THE FIX:
+    [params.author]
+        name = "Kevin Ethier"
+        email = "ethierkevin@gmail.com"
+
+    # While we're here, let's turn on "Profile Mode" for your landing page
+    [params.profileMode]
+        enabled = true
+        title = "Kevin Ethier"
+        subtitle = "Systems Engineer • Marathoner • Problem Solver"
+        # imageTitle = "Kevin Ethier"
+        # imageUrl = "images/marathon.jpg" # You can add this later!
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/yourusername"
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/kevin-michael-ethier/"
+    [[menu.main]]
+        name = "Running"
+        url = "running"
+        weight = 20
+
+    [[menu.main]]
+        name = "About me.."
+        url = "about"
+        weight = 20
+
+    [[menu.main]]
+        name = "Cooking"
+        url = "cooking"
+        weight = 30
+
+    [[menu.main]]
+        name = "AI Projects"
+        url = "ai"
+        weight = 40

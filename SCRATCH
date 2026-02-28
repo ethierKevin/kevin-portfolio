@@ -1,0 +1,63 @@
+SCRATCH
+
+
+
+echo "export GEMINI_API_KEY='AIzaSyC0H_61wl6WKMTAu-7rEkdMNoDsAwpeAwE'" >> ~/.zshrc
+
+
+ns-647.awsdns-16.net.
+ns-1128.awsdns-13.org.
+ns-354.awsdns-44.com.
+ns-1574.awsdns-04.co.uk.
+
+
+
+aws cloudfront create-invalidation --distribution-id d1py9627hkr4d.cloudfront.net --paths "/*"
+
+
+
+
+{
+        "Version": "2008-10-17",
+        "Id": "PolicyForCloudFrontPrivateContent",
+        "Statement": [
+            {
+                "Sid": "AllowCloudFrontServicePrincipal",
+                "Effect": "Allow",
+                "Principal": {
+                    "Service": "cloudfront.amazonaws.com"
+                },
+                "Action": "s3:GetObject",
+                "Resource": "arn:aws:s3:::kevinethier.com/*",
+                "Condition": {
+                    "StringEquals": {
+                      "AWS:SourceArn": "arn:aws:cloudfront::857603774642:distribution/EQZW2NSQMCCF8"
+                    }
+                }
+            }
+        ]
+      }
+
+
+Distribution domain name
+d1py9627hkr4d.cloudfront.net
+      {
+    "Version": "2008-10-17",
+    "Id": "PolicyForCloudFrontPrivateContent",
+    "Statement": [
+        {
+            "Sid": "AllowCloudFrontServicePrincipal",
+            "Effect": "Allow",
+            "Principal": {
+                "Service": "cloudfront.amazonaws.com"
+            },
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::kevinethier.com/*",
+            "Condition": {
+                "StringEquals": {
+                    "AWS:SourceArn": "arn:aws:cloudfront::857603774642:distribution/EQZW2NSQMCCF8"
+                }
+            }
+        }
+    ]
+}
