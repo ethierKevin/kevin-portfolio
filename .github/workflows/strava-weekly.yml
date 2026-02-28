@@ -1,4 +1,4 @@
-name: Update Strava Latest Run
+name: Weekly Strava Update
 
 on:
   schedule:
