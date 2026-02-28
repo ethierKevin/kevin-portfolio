@@ -4,7 +4,7 @@ url: "/about"
 layout: "single"
 ---
 
-### From Bare Metal to the Cloud
+### Engineer of Indeterminate States
 
 I did not start in a computer lab. I started in a small town with a lot of energy and not enough direction. At 17, I traded that uncertainty for the structure of the military where I found myself operating Air Force radar systems and flying satellites. It was my first taste of critical applications and services but the path was not linear after that.
 
