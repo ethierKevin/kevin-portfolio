@@ -1,4 +1,4 @@
-name: Build and Deploy Hugo to S3
+name: Deploy Site (S3)
 
 on:
   push:
@@ -18,6 +18,14 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
+
+      - name: Debug layout files
+        run: |
+          pwd
+          ls -la
+          ls -la layouts || true
+          ls -la layouts/partials || true
+          find layouts -maxdepth 3 -type f -name "google_analytics.html" -print || true
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
