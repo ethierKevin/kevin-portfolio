@@ -4,6 +4,7 @@ import os
 import sys
 import urllib.parse
 import urllib.request
+import urllib.error
 
 STRAVA_TOKEN_URL = "https://www.strava.com/api/v3/oauth/token"
 STRAVA_ACTIVITIES_URL = "https://www.strava.com/api/v3/athlete/activities"
@@ -13,6 +14,9 @@ REQUIRED_ENV = [
     "STRAVA_CLIENT_SECRET",
     "STRAVA_REFRESH_TOKEN",
 ]
+
+
+SENSITIVE_KEYS = {"access_token", "refresh_token"}
 
 
 def getenv_required(name: str) -> str:
@@ -30,11 +34,26 @@ def post_form(url: str, data: dict) -> dict:
         return json.load(resp)
 
 
-def get_json(url: str, token: str) -> list:
+def safe_dict(d: dict) -> dict:
+    return {k: v for k, v in d.items() if k not in SENSITIVE_KEYS}
+
+
+def get_json(url: str, token: str):
     req = urllib.request.Request(url)
     req.add_header("Authorization", f"Bearer {token}")
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.load(resp)
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            return json.load(resp)
+    except urllib.error.HTTPError as err:
+        body = None
+        try:
+            body = err.read().decode("utf-8")
+        except Exception:
+            body = None
+        print(f"HTTP Error {err.code} for {url}", file=sys.stderr)
+        if body:
+            print(body, file=sys.stderr)
+        raise
 
 
 def main() -> int:
@@ -56,7 +75,7 @@ def main() -> int:
     access_token = token_resp.get("access_token")
     if not access_token:
         print("Failed to refresh access token", file=sys.stderr)
-        print(json.dumps(token_resp, indent=2), file=sys.stderr)
+        print(json.dumps(safe_dict(token_resp), indent=2), file=sys.stderr)
         return 1
 
     activities_url = STRAVA_ACTIVITIES_URL + "?per_page=10"
