@@ -1,14 +1,14 @@
 {
-  "id": 17579986615,
-  "name": "Daily dose",
+  "id": 17595498548,
+  "name": "Afternoon Run",
   "type": "Run",
-  "start_date": "2026-03-02T17:33:50Z",
-  "start_date_local": "2026-03-02T12:33:50Z",
+  "start_date": "2026-03-03T21:40:16Z",
+  "start_date_local": "2026-03-03T16:40:16Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12225.5,
-  "moving_time_s": 3611,
-  "elapsed_time_s": 3615,
-  "total_elevation_gain_m": 124.0,
-  "average_speed_mps": 3.386,
-  "average_heartrate": 144.9
+  "distance_m": 9218.8,
+  "moving_time_s": 2896,
+  "elapsed_time_s": 2900,
+  "total_elevation_gain_m": 81.0,
+  "average_speed_mps": 3.183,
+  "average_heartrate": 138.0
 }
