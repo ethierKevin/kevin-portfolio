@@ -1,14 +1,14 @@
 {
-  "id": 17595498548,
-  "name": "Afternoon Run",
+  "id": 17604014403,
+  "name": "Maybe last treadmill sesh of the year!?",
   "type": "Run",
-  "start_date": "2026-03-03T21:40:16Z",
-  "start_date_local": "2026-03-03T16:40:16Z",
-  "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 9218.8,
-  "moving_time_s": 2896,
-  "elapsed_time_s": 2900,
-  "total_elevation_gain_m": 81.0,
-  "average_speed_mps": 3.183,
-  "average_heartrate": 138.0
+  "start_date": "2026-03-04T15:58:03Z",
+  "start_date_local": "2026-03-04T10:58:03Z",
+  "timezone": "(GMT-05:00) America/Atikokan",
+  "distance_m": 13797.1,
+  "moving_time_s": 3575,
+  "elapsed_time_s": 3575,
+  "total_elevation_gain_m": 0,
+  "average_speed_mps": 3.859,
+  "average_heartrate": 148.7
 }
