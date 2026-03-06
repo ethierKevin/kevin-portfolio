@@ -1,14 +1,14 @@
 {
-  "id": 17604014403,
-  "name": "Maybe last treadmill sesh of the year!?",
+  "id": 17627805426,
+  "name": "Lunch Run",
   "type": "Run",
-  "start_date": "2026-03-04T15:58:03Z",
-  "start_date_local": "2026-03-04T10:58:03Z",
-  "timezone": "(GMT-05:00) America/Atikokan",
-  "distance_m": 13797.1,
-  "moving_time_s": 3575,
-  "elapsed_time_s": 3575,
-  "total_elevation_gain_m": 0,
-  "average_speed_mps": 3.859,
-  "average_heartrate": 148.7
+  "start_date": "2026-03-06T17:16:55Z",
+  "start_date_local": "2026-03-06T12:16:55Z",
+  "timezone": "(GMT-05:00) America/New_York",
+  "distance_m": 11481.0,
+  "moving_time_s": 3235,
+  "elapsed_time_s": 3293,
+  "total_elevation_gain_m": 99.0,
+  "average_speed_mps": 3.549,
+  "average_heartrate": 145.7
 }
