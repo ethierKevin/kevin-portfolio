@@ -1,14 +1,14 @@
 {
-  "id": 17627805426,
-  "name": "Lunch Run",
+  "id": 17636762464,
+  "name": "Aside from running in traffic this was enjoyable!",
   "type": "Run",
-  "start_date": "2026-03-06T17:16:55Z",
-  "start_date_local": "2026-03-06T12:16:55Z",
+  "start_date": "2026-03-07T12:26:30Z",
+  "start_date_local": "2026-03-07T07:26:30Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11481.0,
-  "moving_time_s": 3235,
-  "elapsed_time_s": 3293,
-  "total_elevation_gain_m": 99.0,
-  "average_speed_mps": 3.549,
-  "average_heartrate": 145.7
+  "distance_m": 20446.0,
+  "moving_time_s": 5408,
+  "elapsed_time_s": 5423,
+  "total_elevation_gain_m": 149.0,
+  "average_speed_mps": 3.781,
+  "average_heartrate": 141.6
 }
