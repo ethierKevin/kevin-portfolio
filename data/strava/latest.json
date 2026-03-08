@@ -1,14 +1,14 @@
 {
-  "id": 17636762464,
-  "name": "Aside from running in traffic this was enjoyable!",
+  "id": 17654320872,
+  "name": "Most runners I\u2019ve seen out since 2025!",
   "type": "Run",
-  "start_date": "2026-03-07T12:26:30Z",
-  "start_date_local": "2026-03-07T07:26:30Z",
+  "start_date": "2026-03-08T20:16:47Z",
+  "start_date_local": "2026-03-08T16:16:47Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 20446.0,
-  "moving_time_s": 5408,
-  "elapsed_time_s": 5423,
-  "total_elevation_gain_m": 149.0,
-  "average_speed_mps": 3.781,
-  "average_heartrate": 141.6
+  "distance_m": 12594.0,
+  "moving_time_s": 3523,
+  "elapsed_time_s": 3533,
+  "total_elevation_gain_m": 101.0,
+  "average_speed_mps": 3.575,
+  "average_heartrate": 145.0
 }
