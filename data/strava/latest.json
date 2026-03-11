@@ -1,14 +1,14 @@
 {
-  "id": 17662521199,
-  "name": "loving life out there today \u2600\ufe0f",
+  "id": 17687694813,
+  "name": "road work",
   "type": "Run",
-  "start_date": "2026-03-09T16:08:44Z",
-  "start_date_local": "2026-03-09T12:08:44Z",
+  "start_date": "2026-03-11T16:22:19Z",
+  "start_date_local": "2026-03-11T12:22:19Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12837.5,
-  "moving_time_s": 3522,
-  "elapsed_time_s": 3672,
-  "total_elevation_gain_m": 126.0,
-  "average_speed_mps": 3.645,
-  "average_heartrate": 147.9
+  "distance_m": 13463.0,
+  "moving_time_s": 3616,
+  "elapsed_time_s": 3616,
+  "total_elevation_gain_m": 129.0,
+  "average_speed_mps": 3.723,
+  "average_heartrate": 155.1
 }
