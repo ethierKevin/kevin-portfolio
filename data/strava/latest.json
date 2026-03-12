@@ -1,14 +1,14 @@
 {
-  "id": 17687694813,
-  "name": "road work",
+  "id": 17702195501,
+  "name": "Afternoon Run",
   "type": "Run",
-  "start_date": "2026-03-11T16:22:19Z",
-  "start_date_local": "2026-03-11T12:22:19Z",
+  "start_date": "2026-03-12T20:37:46Z",
+  "start_date_local": "2026-03-12T16:37:46Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 13463.0,
-  "moving_time_s": 3616,
-  "elapsed_time_s": 3616,
-  "total_elevation_gain_m": 129.0,
-  "average_speed_mps": 3.723,
-  "average_heartrate": 155.1
+  "distance_m": 9793.0,
+  "moving_time_s": 3035,
+  "elapsed_time_s": 3054,
+  "total_elevation_gain_m": 87.0,
+  "average_speed_mps": 3.227,
+  "average_heartrate": 136.4
 }
