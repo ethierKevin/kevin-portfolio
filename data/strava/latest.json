@@ -1,14 +1,14 @@
 {
-  "id": 17702195501,
-  "name": "Aaaand it\u2019s freezing again",
+  "id": 17717220665,
+  "name": "not a big mileage week",
   "type": "Run",
-  "start_date": "2026-03-12T20:37:46Z",
-  "start_date_local": "2026-03-12T16:37:46Z",
+  "start_date": "2026-03-13T17:11:19Z",
+  "start_date_local": "2026-03-13T13:11:19Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 9793.0,
-  "moving_time_s": 3035,
-  "elapsed_time_s": 3054,
-  "total_elevation_gain_m": 87.0,
-  "average_speed_mps": 3.227,
-  "average_heartrate": 136.4
+  "distance_m": 12356.0,
+  "moving_time_s": 3541,
+  "elapsed_time_s": 3723,
+  "total_elevation_gain_m": 128.0,
+  "average_speed_mps": 3.489,
+  "average_heartrate": 140.5
 }
