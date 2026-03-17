@@ -1,14 +1,14 @@
 {
-  "id": 17717220665,
-  "name": "not a big mileage week",
+  "id": 17759737224,
+  "name": "Happy St. Paddy\u2019s!!",
   "type": "Run",
-  "start_date": "2026-03-13T17:11:19Z",
-  "start_date_local": "2026-03-13T13:11:19Z",
+  "start_date": "2026-03-17T20:39:42Z",
+  "start_date_local": "2026-03-17T16:39:42Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12356.0,
-  "moving_time_s": 3541,
-  "elapsed_time_s": 3723,
-  "total_elevation_gain_m": 128.0,
-  "average_speed_mps": 3.489,
-  "average_heartrate": 140.5
+  "distance_m": 10514.0,
+  "moving_time_s": 3021,
+  "elapsed_time_s": 3021,
+  "total_elevation_gain_m": 102.0,
+  "average_speed_mps": 3.48,
+  "average_heartrate": 139.9
 }
