@@ -1,14 +1,14 @@
 {
-  "id": 17759737224,
-  "name": "Happy St. Paddy\u2019s!!",
+  "id": 17769124669,
+  "name": "I've had better!",
   "type": "Run",
-  "start_date": "2026-03-17T20:39:42Z",
-  "start_date_local": "2026-03-17T16:39:42Z",
+  "start_date": "2026-03-18T16:08:45Z",
+  "start_date_local": "2026-03-18T12:08:45Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 10514.0,
-  "moving_time_s": 3021,
-  "elapsed_time_s": 3021,
-  "total_elevation_gain_m": 102.0,
-  "average_speed_mps": 3.48,
-  "average_heartrate": 139.9
+  "distance_m": 14228.0,
+  "moving_time_s": 3777,
+  "elapsed_time_s": 4100,
+  "total_elevation_gain_m": 73.0,
+  "average_speed_mps": 3.767,
+  "average_heartrate": 149.3
 }
