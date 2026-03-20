@@ -1,14 +1,14 @@
 {
-  "id": 17769124669,
-  "name": "I've had better!",
+  "id": 17793375613,
+  "name": "Oh Mr. Sun Sun, Mr. Golden Sun.",
   "type": "Run",
-  "start_date": "2026-03-18T16:08:45Z",
-  "start_date_local": "2026-03-18T12:08:45Z",
+  "start_date": "2026-03-20T16:07:01Z",
+  "start_date_local": "2026-03-20T12:07:01Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 14228.0,
-  "moving_time_s": 3777,
-  "elapsed_time_s": 4100,
-  "total_elevation_gain_m": 73.0,
-  "average_speed_mps": 3.767,
-  "average_heartrate": 149.3
+  "distance_m": 13049.4,
+  "moving_time_s": 3745,
+  "elapsed_time_s": 3746,
+  "total_elevation_gain_m": 121.0,
+  "average_speed_mps": 3.484,
+  "average_heartrate": 146.3
 }
