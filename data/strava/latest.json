@@ -1,14 +1,14 @@
 {
-  "id": 17793375613,
-  "name": "Oh Mr. Sun Sun, Mr. Golden Sun.",
+  "id": 17806088530,
+  "name": "miss running so bad man.",
   "type": "Run",
-  "start_date": "2026-03-20T16:07:01Z",
-  "start_date_local": "2026-03-20T12:07:01Z",
+  "start_date": "2026-03-21T13:21:57Z",
+  "start_date_local": "2026-03-21T09:21:57Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 13049.4,
-  "moving_time_s": 3745,
-  "elapsed_time_s": 3746,
-  "total_elevation_gain_m": 121.0,
-  "average_speed_mps": 3.484,
-  "average_heartrate": 146.3
+  "distance_m": 26046.0,
+  "moving_time_s": 7074,
+  "elapsed_time_s": 7377,
+  "total_elevation_gain_m": 232.0,
+  "average_speed_mps": 3.682,
+  "average_heartrate": 146.4
 }
