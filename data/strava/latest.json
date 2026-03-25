@@ -1,14 +1,14 @@
 {
-  "id": 17846340177,
-  "name": "quickie",
+  "id": 17855083229,
+  "name": "that was less fun than I thought it was gonna be",
   "type": "Run",
-  "start_date": "2026-03-24T20:38:50Z",
-  "start_date_local": "2026-03-24T16:38:50Z",
+  "start_date": "2026-03-25T15:09:32Z",
+  "start_date_local": "2026-03-25T11:09:32Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11237.0,
-  "moving_time_s": 3087,
-  "elapsed_time_s": 3105,
-  "total_elevation_gain_m": 92.0,
-  "average_speed_mps": 3.64,
-  "average_heartrate": 145.2
+  "distance_m": 14671.0,
+  "moving_time_s": 3936,
+  "elapsed_time_s": 4290,
+  "total_elevation_gain_m": 87.0,
+  "average_speed_mps": 3.727,
+  "average_heartrate": 153.0
 }
