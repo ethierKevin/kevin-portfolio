@@ -1,14 +1,14 @@
 {
-  "id": 17855083229,
-  "name": "that was less fun than I thought it was gonna be",
+  "id": 17867094489,
+  "name": "Run done time for some soccer \u26bd\ufe0f \ud83c\uddeb\ud83c\uddf7\ud83c\udde7\ud83c\uddf7",
   "type": "Run",
-  "start_date": "2026-03-25T15:09:32Z",
-  "start_date_local": "2026-03-25T11:09:32Z",
+  "start_date": "2026-03-26T14:49:38Z",
+  "start_date_local": "2026-03-26T10:49:38Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 14671.0,
-  "moving_time_s": 3936,
-  "elapsed_time_s": 4290,
-  "total_elevation_gain_m": 87.0,
-  "average_speed_mps": 3.727,
-  "average_heartrate": 153.0
+  "distance_m": 13933.4,
+  "moving_time_s": 4059,
+  "elapsed_time_s": 4187,
+  "total_elevation_gain_m": 132.0,
+  "average_speed_mps": 3.433,
+  "average_heartrate": 136.0
 }
