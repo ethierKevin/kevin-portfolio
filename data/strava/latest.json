@@ -1,14 +1,14 @@
 {
-  "id": 17867094489,
-  "name": "Run done time for some soccer \u26bd\ufe0f \ud83c\uddeb\ud83c\uddf7\ud83c\udde7\ud83c\uddf7",
+  "id": 17892694341,
+  "name": "First NYC run ever",
   "type": "Run",
-  "start_date": "2026-03-26T14:49:38Z",
-  "start_date_local": "2026-03-26T10:49:38Z",
+  "start_date": "2026-03-28T18:05:39Z",
+  "start_date_local": "2026-03-28T14:05:39Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 13933.4,
-  "moving_time_s": 4059,
-  "elapsed_time_s": 4187,
-  "total_elevation_gain_m": 132.0,
-  "average_speed_mps": 3.433,
-  "average_heartrate": 136.0
+  "distance_m": 16788.0,
+  "moving_time_s": 4625,
+  "elapsed_time_s": 4847,
+  "total_elevation_gain_m": 155.0,
+  "average_speed_mps": 3.63,
+  "average_heartrate": 150.8
 }
