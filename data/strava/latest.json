@@ -1,14 +1,14 @@
 {
-  "id": 17918365598,
-  "name": "Not gonna lie that wind had me in the first half!",
+  "id": 17930450806,
+  "name": "Feels like 55 my ass",
   "type": "Run",
-  "start_date": "2026-03-30T16:07:29Z",
-  "start_date_local": "2026-03-30T12:07:29Z",
+  "start_date": "2026-03-31T20:35:49Z",
+  "start_date_local": "2026-03-31T16:35:49Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12388.4,
-  "moving_time_s": 3577,
-  "elapsed_time_s": 3673,
-  "total_elevation_gain_m": 135.0,
-  "average_speed_mps": 3.463,
-  "average_heartrate": 142.4
+  "distance_m": 10934.0,
+  "moving_time_s": 3218,
+  "elapsed_time_s": 3241,
+  "total_elevation_gain_m": 96.0,
+  "average_speed_mps": 3.398,
+  "average_heartrate": 145.4
 }
