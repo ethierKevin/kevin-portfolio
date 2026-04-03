@@ -1,14 +1,14 @@
 {
-  "id": 17941200900,
-  "name": "spent!",
+  "id": 17965460747,
+  "name": "back in the saddle",
   "type": "Run",
-  "start_date": "2026-04-01T17:17:15Z",
-  "start_date_local": "2026-04-01T13:17:15Z",
+  "start_date": "2026-04-03T16:05:09Z",
+  "start_date_local": "2026-04-03T12:05:09Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 9968.0,
-  "moving_time_s": 2779,
-  "elapsed_time_s": 3220,
-  "total_elevation_gain_m": 78.0,
-  "average_speed_mps": 3.587,
-  "average_heartrate": 147.5
+  "distance_m": 12736.4,
+  "moving_time_s": 3572,
+  "elapsed_time_s": 3835,
+  "total_elevation_gain_m": 107.0,
+  "average_speed_mps": 3.566,
+  "average_heartrate": 135.5
 }
