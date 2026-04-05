@@ -1,14 +1,14 @@
 {
-  "id": 17977126026,
-  "name": "honor system",
+  "id": 17990374045,
+  "name": "Happy Easter",
   "type": "Run",
-  "start_date": "2026-04-04T14:50:00Z",
-  "start_date_local": "2026-04-04T10:50:00Z",
+  "start_date": "2026-04-05T14:45:22Z",
+  "start_date_local": "2026-04-05T10:45:22Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 6035.0,
-  "moving_time_s": 1680,
-  "elapsed_time_s": 1680,
-  "total_elevation_gain_m": 0.0,
-  "average_speed_mps": 3.592,
-  "average_heartrate": null
+  "distance_m": 12582.0,
+  "moving_time_s": 3554,
+  "elapsed_time_s": 3571,
+  "total_elevation_gain_m": 106.0,
+  "average_speed_mps": 3.54,
+  "average_heartrate": 137.3
 }
