@@ -1,14 +1,14 @@
 {
-  "id": 18004316270,
-  "name": "Lunch Run",
+  "id": 18032987175,
+  "name": "Wasn\u2019t gonna work out but kind of did",
   "type": "Run",
-  "start_date": "2026-04-06T16:41:59Z",
-  "start_date_local": "2026-04-06T12:41:59Z",
+  "start_date": "2026-04-08T17:01:36Z",
+  "start_date_local": "2026-04-08T13:01:36Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12378.0,
-  "moving_time_s": 3612,
-  "elapsed_time_s": 3612,
-  "total_elevation_gain_m": 138.0,
-  "average_speed_mps": 3.427,
-  "average_heartrate": 146.4
+  "distance_m": 11815.8,
+  "moving_time_s": 3275,
+  "elapsed_time_s": 3279,
+  "total_elevation_gain_m": 97.0,
+  "average_speed_mps": 3.608,
+  "average_heartrate": 154.2
 }
