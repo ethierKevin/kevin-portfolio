@@ -1,14 +1,14 @@
 {
-  "id": 18032987175,
-  "name": "Wasn\u2019t gonna work out but kind of did",
+  "id": 18039593971,
+  "name": "So how does one get work done today rather than watch the masters asking for a friend \ud83c\udfcc\ufe0f\u200d\u2642\ufe0f",
   "type": "Run",
-  "start_date": "2026-04-08T17:01:36Z",
-  "start_date_local": "2026-04-08T13:01:36Z",
-  "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11815.8,
-  "moving_time_s": 3275,
-  "elapsed_time_s": 3279,
-  "total_elevation_gain_m": 97.0,
-  "average_speed_mps": 3.608,
-  "average_heartrate": 154.2
+  "start_date": "2026-04-09T08:56:22Z",
+  "start_date_local": "2026-04-09T04:56:22Z",
+  "timezone": "(GMT-04:00) America/Anguilla",
+  "distance_m": 12718.8,
+  "moving_time_s": 3609,
+  "elapsed_time_s": 3610,
+  "total_elevation_gain_m": 0,
+  "average_speed_mps": 3.524,
+  "average_heartrate": 141.8
 }
