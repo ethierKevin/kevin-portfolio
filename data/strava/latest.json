@@ -1,14 +1,14 @@
 {
-  "id": 18070965247,
-  "name": "Chi-Town!",
+  "id": 18085290920,
+  "name": "Morning Run",
   "type": "Run",
-  "start_date": "2026-04-11T15:08:35Z",
-  "start_date_local": "2026-04-11T10:08:35Z",
+  "start_date": "2026-04-12T15:46:44Z",
+  "start_date_local": "2026-04-12T10:46:44Z",
   "timezone": "(GMT-06:00) America/Chicago",
-  "distance_m": 14559.0,
-  "moving_time_s": 3832,
-  "elapsed_time_s": 4049,
-  "total_elevation_gain_m": 21.0,
-  "average_speed_mps": 3.799,
-  "average_heartrate": 159.0
+  "distance_m": 8838.0,
+  "moving_time_s": 2656,
+  "elapsed_time_s": 2863,
+  "total_elevation_gain_m": 27.0,
+  "average_speed_mps": 3.328,
+  "average_heartrate": 144.2
 }
