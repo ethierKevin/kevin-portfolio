@@ -1,14 +1,14 @@
 {
-  "id": 18121934129,
-  "name": "sweating out the demons!",
+  "id": 18137544283,
+  "name": "Time Crunch",
   "type": "Run",
-  "start_date": "2026-04-15T16:30:24Z",
-  "start_date_local": "2026-04-15T12:30:24Z",
+  "start_date": "2026-04-16T20:35:43Z",
+  "start_date_local": "2026-04-16T16:35:43Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12938.0,
-  "moving_time_s": 3665,
-  "elapsed_time_s": 3733,
-  "total_elevation_gain_m": 64.0,
-  "average_speed_mps": 3.53,
-  "average_heartrate": 154.0
+  "distance_m": 6557.6,
+  "moving_time_s": 1739,
+  "elapsed_time_s": 3265,
+  "total_elevation_gain_m": 44.0,
+  "average_speed_mps": 3.771,
+  "average_heartrate": 150.3
 }
