@@ -1,14 +1,14 @@
 {
-  "id": 18160062244,
-  "name": "Holding it together one run at a time",
+  "id": 18194337785,
+  "name": "gotta get back out there man..",
   "type": "Run",
-  "start_date": "2026-04-18T13:33:02Z",
-  "start_date_local": "2026-04-18T09:33:02Z",
+  "start_date": "2026-04-20T20:46:18Z",
+  "start_date_local": "2026-04-20T16:46:18Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 19172.0,
-  "moving_time_s": 5596,
-  "elapsed_time_s": 6388,
-  "total_elevation_gain_m": 139.0,
-  "average_speed_mps": 3.426,
-  "average_heartrate": 135.5
+  "distance_m": 7990.1,
+  "moving_time_s": 2538,
+  "elapsed_time_s": 2564,
+  "total_elevation_gain_m": 66.0,
+  "average_speed_mps": 3.148,
+  "average_heartrate": 137.3
 }
