@@ -1,14 +1,14 @@
 {
-  "id": 18194337785,
-  "name": "gotta get back out there man..",
+  "id": 18211438977,
+  "name": "Just finding some rythym, no pushing",
   "type": "Run",
-  "start_date": "2026-04-20T20:46:18Z",
-  "start_date_local": "2026-04-20T16:46:18Z",
+  "start_date": "2026-04-22T11:36:02Z",
+  "start_date_local": "2026-04-22T07:36:02Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 7990.1,
-  "moving_time_s": 2538,
-  "elapsed_time_s": 2564,
-  "total_elevation_gain_m": 66.0,
-  "average_speed_mps": 3.148,
-  "average_heartrate": 137.3
+  "distance_m": 16302.8,
+  "moving_time_s": 4399,
+  "elapsed_time_s": 4439,
+  "total_elevation_gain_m": 71.0,
+  "average_speed_mps": 3.706,
+  "average_heartrate": 150.5
 }
