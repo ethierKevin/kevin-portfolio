@@ -1,14 +1,14 @@
 {
-  "id": 18211438977,
-  "name": "Just finding some rythym, no pushing",
+  "id": 18223154097,
+  "name": "Truffle shuffle",
   "type": "Run",
-  "start_date": "2026-04-22T11:36:02Z",
-  "start_date_local": "2026-04-22T07:36:02Z",
+  "start_date": "2026-04-23T09:07:28Z",
+  "start_date_local": "2026-04-23T05:07:28Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 16302.8,
-  "moving_time_s": 4399,
-  "elapsed_time_s": 4439,
-  "total_elevation_gain_m": 71.0,
-  "average_speed_mps": 3.706,
-  "average_heartrate": 150.5
+  "distance_m": 9231.4,
+  "moving_time_s": 3221,
+  "elapsed_time_s": 3221,
+  "total_elevation_gain_m": 90.0,
+  "average_speed_mps": 2.866,
+  "average_heartrate": 124.1
 }
