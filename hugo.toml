@@ -4,7 +4,7 @@ title = 'Kevin Ethier | Senior Systems Engineer'
 theme="PaperMod"
 
 [params]
-    env = "development"
+    env = "production"
     title = "Kevin Ethier | Systems Architect"
     description = "Senior Systems Engineer & Marathoner"
 
@@ -23,14 +23,14 @@ theme="PaperMod"
 
     [[params.socialIcons]]
         name = "github"
-        url = "https://github.com/yourusername"
+        url = "https://github.com/ethierKevin"
     [[params.socialIcons]]
         name = "linkedin"
         url = "https://www.linkedin.com/in/kevin-michael-ethier/"
     [[menu.main]]
         name = "Running"
         url = "running"
-        weight = 20
+        weight = 10
 
     [[menu.main]]
         name = "About me.."
