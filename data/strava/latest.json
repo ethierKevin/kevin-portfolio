@@ -1,14 +1,14 @@
 {
-  "id": 18332753279,
-  "name": "T-Pain",
+  "id": 18347686708,
+  "name": "warmup for some yard work",
   "type": "Run",
-  "start_date": "2026-05-01T11:53:45Z",
-  "start_date_local": "2026-05-01T07:53:45Z",
+  "start_date": "2026-05-02T13:11:27Z",
+  "start_date_local": "2026-05-02T09:11:27Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 15035.0,
-  "moving_time_s": 3905,
-  "elapsed_time_s": 4006,
-  "total_elevation_gain_m": 137.0,
-  "average_speed_mps": 3.85,
-  "average_heartrate": 155.0
+  "distance_m": 19968.6,
+  "moving_time_s": 5767,
+  "elapsed_time_s": 5771,
+  "total_elevation_gain_m": 180.0,
+  "average_speed_mps": 3.463,
+  "average_heartrate": 140.0
 }
