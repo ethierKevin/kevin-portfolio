@@ -1,14 +1,14 @@
 {
-  "id": 18347686708,
-  "name": "warmup for some yard work",
+  "id": 18374565524,
+  "name": "Lunch",
   "type": "Run",
-  "start_date": "2026-05-02T13:11:27Z",
-  "start_date_local": "2026-05-02T09:11:27Z",
+  "start_date": "2026-05-04T16:07:07Z",
+  "start_date_local": "2026-05-04T12:07:07Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 19968.6,
-  "moving_time_s": 5767,
-  "elapsed_time_s": 5771,
-  "total_elevation_gain_m": 180.0,
-  "average_speed_mps": 3.463,
-  "average_heartrate": 140.0
+  "distance_m": 12064.4,
+  "moving_time_s": 3564,
+  "elapsed_time_s": 3565,
+  "total_elevation_gain_m": 125.0,
+  "average_speed_mps": 3.385,
+  "average_heartrate": 141.3
 }
