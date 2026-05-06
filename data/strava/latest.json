@@ -1,14 +1,14 @@
 {
-  "id": 18374565524,
-  "name": "Lunch",
+  "id": 18398809669,
+  "name": "over the hill",
   "type": "Run",
-  "start_date": "2026-05-04T16:07:07Z",
-  "start_date_local": "2026-05-04T12:07:07Z",
+  "start_date": "2026-05-06T11:43:39Z",
+  "start_date_local": "2026-05-06T07:43:39Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12064.4,
-  "moving_time_s": 3564,
-  "elapsed_time_s": 3565,
-  "total_elevation_gain_m": 125.0,
-  "average_speed_mps": 3.385,
-  "average_heartrate": 141.3
+  "distance_m": 15686.5,
+  "moving_time_s": 4474,
+  "elapsed_time_s": 4476,
+  "total_elevation_gain_m": 232.0,
+  "average_speed_mps": 3.506,
+  "average_heartrate": 150.4
 }
