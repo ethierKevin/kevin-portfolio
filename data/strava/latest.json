@@ -1,14 +1,14 @@
 {
-  "id": 18417973343,
-  "name": "fun in the sun \u2600\ufe0f",
+  "id": 18425145706,
+  "name": "Friday T",
   "type": "Run",
-  "start_date": "2026-05-07T20:38:59Z",
-  "start_date_local": "2026-05-07T16:38:59Z",
+  "start_date": "2026-05-08T11:27:52Z",
+  "start_date_local": "2026-05-08T07:27:52Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 9433.0,
-  "moving_time_s": 2918,
-  "elapsed_time_s": 2921,
-  "total_elevation_gain_m": 68.0,
-  "average_speed_mps": 3.233,
-  "average_heartrate": 131.2
+  "distance_m": 15470.0,
+  "moving_time_s": 4113,
+  "elapsed_time_s": 4300,
+  "total_elevation_gain_m": 72.0,
+  "average_speed_mps": 3.761,
+  "average_heartrate": 150.4
 }
