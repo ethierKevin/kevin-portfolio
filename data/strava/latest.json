@@ -1,14 +1,14 @@
 {
-  "id": 18439794202,
-  "name": "Happy Walpole Day!",
+  "id": 18468035582,
+  "name": "Double Dragon",
   "type": "Run",
-  "start_date": "2026-05-09T13:24:22Z",
-  "start_date_local": "2026-05-09T09:24:22Z",
+  "start_date": "2026-05-11T16:02:20Z",
+  "start_date_local": "2026-05-11T12:02:20Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 14515.3,
-  "moving_time_s": 4041,
-  "elapsed_time_s": 4041,
-  "total_elevation_gain_m": 124.0,
-  "average_speed_mps": 3.592,
-  "average_heartrate": 148.3
+  "distance_m": 7044.0,
+  "moving_time_s": 2108,
+  "elapsed_time_s": 2108,
+  "total_elevation_gain_m": 61.0,
+  "average_speed_mps": 3.342,
+  "average_heartrate": 136.1
 }
