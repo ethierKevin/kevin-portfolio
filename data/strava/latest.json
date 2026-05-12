@@ -1,14 +1,14 @@
 {
-  "id": 18468035582,
-  "name": "Double Dragon",
+  "id": 18483242399,
+  "name": "gorgeous afternoon",
   "type": "Run",
-  "start_date": "2026-05-11T16:02:20Z",
-  "start_date_local": "2026-05-11T12:02:20Z",
+  "start_date": "2026-05-12T20:38:44Z",
+  "start_date_local": "2026-05-12T16:38:44Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 7044.0,
-  "moving_time_s": 2108,
-  "elapsed_time_s": 2108,
-  "total_elevation_gain_m": 61.0,
-  "average_speed_mps": 3.342,
-  "average_heartrate": 136.1
+  "distance_m": 9894.0,
+  "moving_time_s": 2938,
+  "elapsed_time_s": 2942,
+  "total_elevation_gain_m": 81.0,
+  "average_speed_mps": 3.368,
+  "average_heartrate": 130.8
 }
