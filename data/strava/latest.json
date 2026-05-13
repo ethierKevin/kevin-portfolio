@@ -1,14 +1,14 @@
 {
-  "id": 18483242399,
-  "name": "gorgeous afternoon",
+  "id": 18490781086,
+  "name": "actually pretty decent",
   "type": "Run",
-  "start_date": "2026-05-12T20:38:44Z",
-  "start_date_local": "2026-05-12T16:38:44Z",
+  "start_date": "2026-05-13T11:45:36Z",
+  "start_date_local": "2026-05-13T07:45:36Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 9894.0,
-  "moving_time_s": 2938,
-  "elapsed_time_s": 2942,
-  "total_elevation_gain_m": 81.0,
-  "average_speed_mps": 3.368,
-  "average_heartrate": 130.8
+  "distance_m": 16186.0,
+  "moving_time_s": 4298,
+  "elapsed_time_s": 4333,
+  "total_elevation_gain_m": 131.0,
+  "average_speed_mps": 3.766,
+  "average_heartrate": 151.0
 }
