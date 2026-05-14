@@ -1,14 +1,14 @@
 {
-  "id": 18490781086,
-  "name": "actually pretty decent",
+  "id": 18509922982,
+  "name": "treadmill fun",
   "type": "Run",
-  "start_date": "2026-05-13T11:45:36Z",
-  "start_date_local": "2026-05-13T07:45:36Z",
-  "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 16186.0,
-  "moving_time_s": 4298,
-  "elapsed_time_s": 4333,
-  "total_elevation_gain_m": 131.0,
-  "average_speed_mps": 3.766,
-  "average_heartrate": 151.0
+  "start_date": "2026-05-14T20:42:39Z",
+  "start_date_local": "2026-05-14T16:42:39Z",
+  "timezone": "(GMT-04:00) America/Anguilla",
+  "distance_m": 9516.2,
+  "moving_time_s": 2846,
+  "elapsed_time_s": 2846,
+  "total_elevation_gain_m": 0,
+  "average_speed_mps": 3.344,
+  "average_heartrate": 149.0
 }
