@@ -1,14 +1,14 @@
 {
-  "id": 18509922982,
-  "name": "treadmill fun",
+  "id": 18516600529,
+  "name": "casual Friday workout",
   "type": "Run",
-  "start_date": "2026-05-14T20:42:39Z",
-  "start_date_local": "2026-05-14T16:42:39Z",
-  "timezone": "(GMT-04:00) America/Anguilla",
-  "distance_m": 9516.2,
-  "moving_time_s": 2846,
-  "elapsed_time_s": 2846,
-  "total_elevation_gain_m": 0,
-  "average_speed_mps": 3.344,
-  "average_heartrate": 149.0
+  "start_date": "2026-05-15T11:46:43Z",
+  "start_date_local": "2026-05-15T07:46:43Z",
+  "timezone": "(GMT-05:00) America/New_York",
+  "distance_m": 13055.9,
+  "moving_time_s": 3703,
+  "elapsed_time_s": 3724,
+  "total_elevation_gain_m": 74.0,
+  "average_speed_mps": 3.526,
+  "average_heartrate": 145.7
 }
