@@ -1,14 +1,14 @@
 {
-  "id": 18534018328,
-  "name": "conversational saturday",
+  "id": 18557662727,
+  "name": "Lunch Run",
   "type": "Run",
-  "start_date": "2026-05-16T13:07:19Z",
-  "start_date_local": "2026-05-16T09:07:19Z",
+  "start_date": "2026-05-18T16:07:52Z",
+  "start_date_local": "2026-05-18T12:07:52Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 18370.0,
-  "moving_time_s": 5188,
-  "elapsed_time_s": 5299,
-  "total_elevation_gain_m": 139.0,
-  "average_speed_mps": 3.541,
-  "average_heartrate": 141.8
+  "distance_m": 6658.3,
+  "moving_time_s": 2006,
+  "elapsed_time_s": 2100,
+  "total_elevation_gain_m": 62.0,
+  "average_speed_mps": 3.319,
+  "average_heartrate": 133.5
 }
