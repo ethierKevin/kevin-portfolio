@@ -1,14 +1,14 @@
 {
-  "id": 18575270844,
-  "name": "Toasty!",
+  "id": 18581820193,
+  "name": "heated hills \u2600\ufe0f",
   "type": "Run",
-  "start_date": "2026-05-19T20:42:19Z",
-  "start_date_local": "2026-05-19T16:42:19Z",
+  "start_date": "2026-05-20T11:47:04Z",
+  "start_date_local": "2026-05-20T07:47:04Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 9735.8,
-  "moving_time_s": 2796,
-  "elapsed_time_s": 2827,
-  "total_elevation_gain_m": 79.0,
-  "average_speed_mps": 3.482,
-  "average_heartrate": 144.5
+  "distance_m": 14536.0,
+  "moving_time_s": 4194,
+  "elapsed_time_s": 4232,
+  "total_elevation_gain_m": 207.0,
+  "average_speed_mps": 3.466,
+  "average_heartrate": 144.3
 }
