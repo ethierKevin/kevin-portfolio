@@ -1,14 +1,14 @@
 {
-  "id": 18608102793,
-  "name": "Not my best work, but it\u2019s work",
+  "id": 18622919004,
+  "name": "Morning Run",
   "type": "Run",
-  "start_date": "2026-05-22T11:57:59Z",
-  "start_date_local": "2026-05-22T07:57:59Z",
+  "start_date": "2026-05-23T13:48:28Z",
+  "start_date_local": "2026-05-23T09:48:28Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 13759.0,
-  "moving_time_s": 3686,
-  "elapsed_time_s": 3799,
-  "total_elevation_gain_m": 113.0,
-  "average_speed_mps": 3.733,
-  "average_heartrate": 151.3
+  "distance_m": 12567.0,
+  "moving_time_s": 3499,
+  "elapsed_time_s": 3514,
+  "total_elevation_gain_m": 101.0,
+  "average_speed_mps": 3.592,
+  "average_heartrate": 143.2
 }
