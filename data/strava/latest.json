@@ -1,14 +1,14 @@
 {
-  "id": 18658918109,
-  "name": "Dawn Patrol!",
+  "id": 18675376903,
+  "name": "hump day \ud83d\udc2b",
   "type": "Run",
-  "start_date": "2026-05-26T09:05:41Z",
-  "start_date_local": "2026-05-26T05:05:41Z",
+  "start_date": "2026-05-27T11:50:12Z",
+  "start_date_local": "2026-05-27T07:50:12Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 13058.0,
-  "moving_time_s": 3973,
-  "elapsed_time_s": 3981,
-  "total_elevation_gain_m": 115.0,
-  "average_speed_mps": 3.287,
-  "average_heartrate": 125.8
+  "distance_m": 14505.0,
+  "moving_time_s": 3940,
+  "elapsed_time_s": 4121,
+  "total_elevation_gain_m": 62.0,
+  "average_speed_mps": 3.681,
+  "average_heartrate": 152.4
 }
