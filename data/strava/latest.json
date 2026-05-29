@@ -1,14 +1,14 @@
 {
-  "id": 18675376903,
-  "name": "hump day \ud83d\udc2b",
+  "id": 18688582668,
+  "name": "Morning Run",
   "type": "Run",
-  "start_date": "2026-05-27T11:50:12Z",
-  "start_date_local": "2026-05-27T07:50:12Z",
+  "start_date": "2026-05-28T09:06:43Z",
+  "start_date_local": "2026-05-28T05:06:43Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 14505.0,
-  "moving_time_s": 3940,
-  "elapsed_time_s": 4121,
-  "total_elevation_gain_m": 62.0,
-  "average_speed_mps": 3.681,
-  "average_heartrate": 152.4
+  "distance_m": 13135.0,
+  "moving_time_s": 3895,
+  "elapsed_time_s": 3912,
+  "total_elevation_gain_m": 106.0,
+  "average_speed_mps": 3.372,
+  "average_heartrate": 131.0
 }
