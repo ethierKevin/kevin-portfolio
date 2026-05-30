@@ -1,14 +1,14 @@
 {
-  "id": 18688582668,
-  "name": "Morning Run",
+  "id": 18701972716,
+  "name": "Bail out \ud83e\udd37\u200d\u2642\ufe0f",
   "type": "Run",
-  "start_date": "2026-05-28T09:06:43Z",
-  "start_date_local": "2026-05-28T05:06:43Z",
+  "start_date": "2026-05-29T11:48:08Z",
+  "start_date_local": "2026-05-29T07:48:08Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 13135.0,
-  "moving_time_s": 3895,
-  "elapsed_time_s": 3912,
-  "total_elevation_gain_m": 106.0,
-  "average_speed_mps": 3.372,
-  "average_heartrate": 131.0
+  "distance_m": 6748.6,
+  "moving_time_s": 2013,
+  "elapsed_time_s": 2053,
+  "total_elevation_gain_m": 77.0,
+  "average_speed_mps": 3.353,
+  "average_heartrate": 133.0
 }
