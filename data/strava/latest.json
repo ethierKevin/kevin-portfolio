@@ -1,14 +1,14 @@
 {
-  "id": 18701972716,
-  "name": "Bail out \ud83e\udd37\u200d\u2642\ufe0f",
+  "id": 18718209117,
+  "name": "good soup day \ud83c\udf72",
   "type": "Run",
-  "start_date": "2026-05-29T11:48:08Z",
-  "start_date_local": "2026-05-29T07:48:08Z",
+  "start_date": "2026-05-30T13:22:03Z",
+  "start_date_local": "2026-05-30T09:22:03Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 6748.6,
-  "moving_time_s": 2013,
-  "elapsed_time_s": 2053,
-  "total_elevation_gain_m": 77.0,
-  "average_speed_mps": 3.353,
-  "average_heartrate": 133.0
+  "distance_m": 20953.3,
+  "moving_time_s": 6095,
+  "elapsed_time_s": 6684,
+  "total_elevation_gain_m": 257.0,
+  "average_speed_mps": 3.438,
+  "average_heartrate": 148.0
 }
