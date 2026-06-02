@@ -1,14 +1,14 @@
 {
-  "id": 18718209117,
-  "name": "good soup day \ud83c\udf72",
+  "id": 18740452043,
+  "name": "really loving this time of day",
   "type": "Run",
-  "start_date": "2026-05-30T13:22:03Z",
-  "start_date_local": "2026-05-30T09:22:03Z",
+  "start_date": "2026-06-01T09:06:02Z",
+  "start_date_local": "2026-06-01T05:06:02Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 20953.3,
-  "moving_time_s": 6095,
-  "elapsed_time_s": 6684,
-  "total_elevation_gain_m": 257.0,
-  "average_speed_mps": 3.438,
-  "average_heartrate": 148.0
+  "distance_m": 13614.0,
+  "moving_time_s": 3965,
+  "elapsed_time_s": 3965,
+  "total_elevation_gain_m": 109.0,
+  "average_speed_mps": 3.434,
+  "average_heartrate": 133.8
 }
