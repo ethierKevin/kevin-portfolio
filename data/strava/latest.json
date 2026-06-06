@@ -1,14 +1,14 @@
 {
-  "id": 18769951303,
-  "name": "alright alright alright",
+  "id": 18796912076,
+  "name": "gotta be starting something!",
   "type": "Run",
-  "start_date": "2026-06-03T11:47:39Z",
-  "start_date_local": "2026-06-03T07:47:39Z",
+  "start_date": "2026-06-05T11:35:09Z",
+  "start_date_local": "2026-06-05T07:35:09Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 14875.0,
-  "moving_time_s": 4064,
-  "elapsed_time_s": 4251,
-  "total_elevation_gain_m": 64.0,
-  "average_speed_mps": 3.66,
-  "average_heartrate": 153.5
+  "distance_m": 16152.4,
+  "moving_time_s": 4096,
+  "elapsed_time_s": 4632,
+  "total_elevation_gain_m": 65.0,
+  "average_speed_mps": 3.943,
+  "average_heartrate": 156.7
 }
