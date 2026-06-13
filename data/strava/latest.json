@@ -1,14 +1,14 @@
 {
-  "id": 18848138426,
-  "name": "wee bit of quality",
+  "id": 18891897346,
+  "name": "Morning Swim",
   "type": "Run",
-  "start_date": "2026-06-09T09:08:21Z",
-  "start_date_local": "2026-06-09T05:08:21Z",
+  "start_date": "2026-06-12T11:53:38Z",
+  "start_date_local": "2026-06-12T07:53:38Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12906.9,
-  "moving_time_s": 3455,
-  "elapsed_time_s": 3956,
-  "total_elevation_gain_m": 63.0,
-  "average_speed_mps": 3.736,
-  "average_heartrate": 145.4
+  "distance_m": 12997.7,
+  "moving_time_s": 3519,
+  "elapsed_time_s": 3823,
+  "total_elevation_gain_m": 101.0,
+  "average_speed_mps": 3.694,
+  "average_heartrate": 152.4
 }
