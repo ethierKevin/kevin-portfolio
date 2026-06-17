@@ -1,14 +1,14 @@
 {
-  "id": 18906381386,
-  "name": "Kilts in Canton",
+  "id": 18941260145,
+  "name": "Another perfect morning",
   "type": "Run",
-  "start_date": "2026-06-13T13:03:49Z",
-  "start_date_local": "2026-06-13T09:03:49Z",
+  "start_date": "2026-06-16T09:06:53Z",
+  "start_date_local": "2026-06-16T05:06:53Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 18638.0,
-  "moving_time_s": 5163,
-  "elapsed_time_s": 5608,
-  "total_elevation_gain_m": 163.0,
-  "average_speed_mps": 3.61,
-  "average_heartrate": 144.7
+  "distance_m": 13277.3,
+  "moving_time_s": 3863,
+  "elapsed_time_s": 3866,
+  "total_elevation_gain_m": 107.0,
+  "average_speed_mps": 3.437,
+  "average_heartrate": 134.9
 }
