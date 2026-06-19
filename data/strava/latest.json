@@ -1,14 +1,14 @@
 {
-  "id": 18957695530,
-  "name": "Opposites Attract",
+  "id": 18970148701,
+  "name": "US Open + World Cup + Two Rounds of Golf",
   "type": "Run",
-  "start_date": "2026-06-17T11:44:49Z",
-  "start_date_local": "2026-06-17T07:44:49Z",
+  "start_date": "2026-06-18T09:05:31Z",
+  "start_date_local": "2026-06-18T05:05:31Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 14622.0,
-  "moving_time_s": 3775,
-  "elapsed_time_s": 3899,
-  "total_elevation_gain_m": 60.0,
-  "average_speed_mps": 3.873,
-  "average_heartrate": 152.3
+  "distance_m": 13862.0,
+  "moving_time_s": 3997,
+  "elapsed_time_s": 4003,
+  "total_elevation_gain_m": 119.0,
+  "average_speed_mps": 3.468,
+  "average_heartrate": 137.8
 }
