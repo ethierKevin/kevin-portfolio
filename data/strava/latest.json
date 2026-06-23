@@ -1,14 +1,14 @@
 {
-  "id": 19016461800,
-  "name": "Morning Run",
+  "id": 19020156307,
+  "name": "Donuts with Dad! \ud83c\udf69",
   "type": "Run",
-  "start_date": "2026-06-21T13:44:02Z",
-  "start_date_local": "2026-06-21T09:44:02Z",
+  "start_date": "2026-06-22T09:05:56Z",
+  "start_date_local": "2026-06-22T05:05:56Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 14571.4,
-  "moving_time_s": 3965,
-  "elapsed_time_s": 4035,
-  "total_elevation_gain_m": 126.0,
-  "average_speed_mps": 3.675,
-  "average_heartrate": 146.9
+  "distance_m": 13280.0,
+  "moving_time_s": 3951,
+  "elapsed_time_s": 3959,
+  "total_elevation_gain_m": 109.0,
+  "average_speed_mps": 3.361,
+  "average_heartrate": 125.8
 }
