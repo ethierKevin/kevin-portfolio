@@ -1,14 +1,14 @@
 {
-  "id": 19034525307,
-  "name": "Tanks are empty today \ud83e\udd37\u200d\u2642\ufe0f",
+  "id": 19049038299,
+  "name": "shifting gears for a bit here",
   "type": "Run",
-  "start_date": "2026-06-23T09:06:06Z",
-  "start_date_local": "2026-06-23T05:06:06Z",
+  "start_date": "2026-06-24T12:03:03Z",
+  "start_date_local": "2026-06-24T08:03:03Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 13328.0,
-  "moving_time_s": 3989,
-  "elapsed_time_s": 3999,
-  "total_elevation_gain_m": 104.0,
-  "average_speed_mps": 3.341,
-  "average_heartrate": 130.1
+  "distance_m": 9630.0,
+  "moving_time_s": 2818,
+  "elapsed_time_s": 2822,
+  "total_elevation_gain_m": 76.0,
+  "average_speed_mps": 3.417,
+  "average_heartrate": 134.2
 }
