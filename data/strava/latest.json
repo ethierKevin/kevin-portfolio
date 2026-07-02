@@ -1,14 +1,14 @@
 {
-  "id": 19109522925,
-  "name": "Morning Run",
+  "id": 19135404044,
+  "name": "Back to it",
   "type": "Run",
-  "start_date": "2026-06-29T09:07:24Z",
-  "start_date_local": "2026-06-29T05:07:24Z",
+  "start_date": "2026-07-01T09:05:56Z",
+  "start_date_local": "2026-07-01T05:05:56Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 13042.0,
-  "moving_time_s": 3908,
-  "elapsed_time_s": 3917,
-  "total_elevation_gain_m": 99.0,
-  "average_speed_mps": 3.337,
-  "average_heartrate": 130.2
+  "distance_m": 13433.0,
+  "moving_time_s": 3942,
+  "elapsed_time_s": 4208,
+  "total_elevation_gain_m": 101.0,
+  "average_speed_mps": 3.408,
+  "average_heartrate": 135.5
 }
