@@ -1,14 +1,14 @@
 {
-  "id": 19177573943,
-  "name": "HBD USA \ud83c\uddfa\ud83c\uddf8",
+  "id": 19200383245,
+  "name": "Don\u2019t make me go home \ud83d\ude2d",
   "type": "Run",
-  "start_date": "2026-07-04T12:48:24Z",
-  "start_date_local": "2026-07-04T08:48:24Z",
+  "start_date": "2026-07-06T11:18:01Z",
+  "start_date_local": "2026-07-06T07:18:01Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11476.0,
-  "moving_time_s": 3218,
-  "elapsed_time_s": 3218,
-  "total_elevation_gain_m": 41.0,
-  "average_speed_mps": 3.566,
-  "average_heartrate": 152.9
+  "distance_m": 12933.0,
+  "moving_time_s": 3845,
+  "elapsed_time_s": 3848,
+  "total_elevation_gain_m": 51.0,
+  "average_speed_mps": 3.364,
+  "average_heartrate": 130.4
 }
