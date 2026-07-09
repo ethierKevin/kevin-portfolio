@@ -1,14 +1,14 @@
 {
-  "id": 19233570096,
-  "name": "bailed on that one",
+  "id": 19242253212,
+  "name": "exhausted \ud83d\ude34",
   "type": "Run",
-  "start_date": "2026-07-08T11:39:26Z",
-  "start_date_local": "2026-07-08T07:39:26Z",
+  "start_date": "2026-07-09T09:10:05Z",
+  "start_date_local": "2026-07-09T05:10:05Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 8168.5,
-  "moving_time_s": 2395,
-  "elapsed_time_s": 2472,
-  "total_elevation_gain_m": 57.0,
-  "average_speed_mps": 3.411,
-  "average_heartrate": 133.5
+  "distance_m": 12364.0,
+  "moving_time_s": 3791,
+  "elapsed_time_s": 3798,
+  "total_elevation_gain_m": 93.0,
+  "average_speed_mps": 3.261,
+  "average_heartrate": 129.3
 }
