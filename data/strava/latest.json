@@ -1,14 +1,14 @@
 {
-  "id": 19255844287,
-  "name": "day 6: feel like a tired squishmallow",
+  "id": 19272270613,
+  "name": "Miles",
   "type": "Run",
-  "start_date": "2026-07-10T11:58:31Z",
-  "start_date_local": "2026-07-10T07:58:31Z",
+  "start_date": "2026-07-11T13:51:37Z",
+  "start_date_local": "2026-07-11T09:51:37Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12037.0,
-  "moving_time_s": 3512,
-  "elapsed_time_s": 3526,
-  "total_elevation_gain_m": 85.0,
-  "average_speed_mps": 3.427,
-  "average_heartrate": 142.1
+  "distance_m": 16275.3,
+  "moving_time_s": 4523,
+  "elapsed_time_s": 5793,
+  "total_elevation_gain_m": 110.0,
+  "average_speed_mps": 3.598,
+  "average_heartrate": 141.6
 }
