@@ -1,14 +1,14 @@
 {
-  "id": 19272270613,
-  "name": "Miles",
+  "id": 19293474244,
+  "name": "pre-golf",
   "type": "Run",
-  "start_date": "2026-07-11T13:51:37Z",
-  "start_date_local": "2026-07-11T09:51:37Z",
+  "start_date": "2026-07-13T09:07:09Z",
+  "start_date_local": "2026-07-13T05:07:09Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 16275.3,
-  "moving_time_s": 4523,
-  "elapsed_time_s": 5793,
-  "total_elevation_gain_m": 110.0,
-  "average_speed_mps": 3.598,
-  "average_heartrate": 141.6
+  "distance_m": 13031.0,
+  "moving_time_s": 3906,
+  "elapsed_time_s": 3906,
+  "total_elevation_gain_m": 101.0,
+  "average_speed_mps": 3.336,
+  "average_heartrate": 131.9
 }
