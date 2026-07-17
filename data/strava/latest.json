@@ -1,14 +1,14 @@
 {
-  "id": 19323054457,
-  "name": "lil-workout",
+  "id": 19350350980,
+  "name": "Bienvenue \u00e0 OOB",
   "type": "Run",
-  "start_date": "2026-07-15T11:45:45Z",
-  "start_date_local": "2026-07-15T07:45:45Z",
+  "start_date": "2026-07-17T12:50:03Z",
+  "start_date_local": "2026-07-17T08:50:03Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12591.2,
-  "moving_time_s": 3443,
-  "elapsed_time_s": 3691,
-  "total_elevation_gain_m": 59.0,
-  "average_speed_mps": 3.657,
-  "average_heartrate": 151.2
+  "distance_m": 6702.0,
+  "moving_time_s": 2002,
+  "elapsed_time_s": 2002,
+  "total_elevation_gain_m": 4.0,
+  "average_speed_mps": 3.348,
+  "average_heartrate": 131.2
 }
