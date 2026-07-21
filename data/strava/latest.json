@@ -1,14 +1,14 @@
 {
-  "id": 19362574738,
-  "name": "Morning Run",
+  "id": 19401224932,
+  "name": "Back to the real world",
   "type": "Run",
-  "start_date": "2026-07-18T12:14:58Z",
-  "start_date_local": "2026-07-18T08:14:58Z",
+  "start_date": "2026-07-21T09:08:29Z",
+  "start_date_local": "2026-07-21T05:08:29Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 6480.3,
-  "moving_time_s": 1795,
-  "elapsed_time_s": 1799,
-  "total_elevation_gain_m": 3.0,
-  "average_speed_mps": 3.61,
-  "average_heartrate": 140.3
+  "distance_m": 12406.8,
+  "moving_time_s": 3677,
+  "elapsed_time_s": 3681,
+  "total_elevation_gain_m": 91.0,
+  "average_speed_mps": 3.374,
+  "average_heartrate": 131.6
 }
