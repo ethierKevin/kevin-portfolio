@@ -1,14 +1,14 @@
 {
-  "id": 19497457291,
-  "name": "how are my quads sore \ud83e\uddd0",
+  "id": 19517420148,
+  "name": "Better than nothing I guess",
   "type": "Run",
-  "start_date": "2026-07-28T09:08:26Z",
-  "start_date_local": "2026-07-28T05:08:26Z",
+  "start_date": "2026-07-29T15:40:32Z",
+  "start_date_local": "2026-07-29T11:40:32Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11911.7,
-  "moving_time_s": 3643,
-  "elapsed_time_s": 3647,
-  "total_elevation_gain_m": 86.0,
-  "average_speed_mps": 3.27,
-  "average_heartrate": 128.5
+  "distance_m": 6720.0,
+  "moving_time_s": 2029,
+  "elapsed_time_s": 2029,
+  "total_elevation_gain_m": 0,
+  "average_speed_mps": 3.312,
+  "average_heartrate": 153.7
 }
