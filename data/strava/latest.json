@@ -1,14 +1,14 @@
 {
-  "id": 19540557177,
-  "name": "wee bit tired but its Friday",
+  "id": 19558557682,
+  "name": "miles and strides, simple recipe",
   "type": "Run",
-  "start_date": "2026-07-31T09:08:10Z",
-  "start_date_local": "2026-07-31T05:08:10Z",
+  "start_date": "2026-08-01T14:13:30Z",
+  "start_date_local": "2026-08-01T10:13:30Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12843.3,
-  "moving_time_s": 3784,
-  "elapsed_time_s": 3793,
+  "distance_m": 14589.0,
+  "moving_time_s": 3954,
+  "elapsed_time_s": 4382,
   "total_elevation_gain_m": 98.0,
-  "average_speed_mps": 3.394,
-  "average_heartrate": 136.4
+  "average_speed_mps": 3.69,
+  "average_heartrate": 152.9
 }
