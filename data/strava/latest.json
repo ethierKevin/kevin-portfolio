@@ -1,14 +1,14 @@
 {
-  "id": 19558557682,
-  "name": "miles and strides, simple recipe",
+  "id": 19580654287,
+  "name": "Daddy Daycare == Treadmill House Arrest",
   "type": "Run",
-  "start_date": "2026-08-01T14:13:30Z",
-  "start_date_local": "2026-08-01T10:13:30Z",
+  "start_date": "2026-08-03T09:16:30Z",
+  "start_date_local": "2026-08-03T05:16:30Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 14589.0,
-  "moving_time_s": 3954,
-  "elapsed_time_s": 4382,
-  "total_elevation_gain_m": 98.0,
-  "average_speed_mps": 3.69,
-  "average_heartrate": 152.9
+  "distance_m": 11468.4,
+  "moving_time_s": 3548,
+  "elapsed_time_s": 3548,
+  "total_elevation_gain_m": 0,
+  "average_speed_mps": 3.232,
+  "average_heartrate": 135.6
 }
