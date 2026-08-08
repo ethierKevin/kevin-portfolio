@@ -1,14 +1,14 @@
 {
-  "id": 19641778729,
-  "name": "go to sleep",
+  "id": 19655708449,
+  "name": "Felt like Odysseus trying to make it home to Ithaca in this one!",
   "type": "Run",
-  "start_date": "2026-08-07T11:52:02Z",
-  "start_date_local": "2026-08-07T07:52:02Z",
+  "start_date": "2026-08-08T13:16:41Z",
+  "start_date_local": "2026-08-08T09:16:41Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 13701.9,
-  "moving_time_s": 3785,
-  "elapsed_time_s": 4012,
-  "total_elevation_gain_m": 56.0,
-  "average_speed_mps": 3.62,
-  "average_heartrate": 151.0
+  "distance_m": 14673.0,
+  "moving_time_s": 3996,
+  "elapsed_time_s": 4191,
+  "total_elevation_gain_m": 124.0,
+  "average_speed_mps": 3.672,
+  "average_heartrate": 152.9
 }
