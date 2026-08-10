@@ -1,14 +1,14 @@
 {
-  "id": 19655708449,
-  "name": "Felt like Odysseus trying to make it home to Ithaca in this one!",
+  "id": 19680641868,
+  "name": "too tired to come up with a title today",
   "type": "Run",
-  "start_date": "2026-08-08T13:16:41Z",
-  "start_date_local": "2026-08-08T09:16:41Z",
+  "start_date": "2026-08-10T09:07:08Z",
+  "start_date_local": "2026-08-10T05:07:08Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 14673.0,
-  "moving_time_s": 3996,
-  "elapsed_time_s": 4191,
-  "total_elevation_gain_m": 124.0,
-  "average_speed_mps": 3.672,
-  "average_heartrate": 152.9
+  "distance_m": 12410.0,
+  "moving_time_s": 3802,
+  "elapsed_time_s": 3802,
+  "total_elevation_gain_m": 112.0,
+  "average_speed_mps": 3.264,
+  "average_heartrate": 125.8
 }
