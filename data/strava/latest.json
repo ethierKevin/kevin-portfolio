@@ -1,14 +1,14 @@
 {
-  "id": 19680641868,
-  "name": "too tired to come up with a title today",
+  "id": 19711136087,
+  "name": "trying to wake the legs up a bit",
   "type": "Run",
-  "start_date": "2026-08-10T09:07:08Z",
-  "start_date_local": "2026-08-10T05:07:08Z",
+  "start_date": "2026-08-12T11:59:20Z",
+  "start_date_local": "2026-08-12T07:59:20Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12410.0,
-  "moving_time_s": 3802,
-  "elapsed_time_s": 3802,
-  "total_elevation_gain_m": 112.0,
-  "average_speed_mps": 3.264,
-  "average_heartrate": 125.8
+  "distance_m": 10894.0,
+  "moving_time_s": 3067,
+  "elapsed_time_s": 3241,
+  "total_elevation_gain_m": 59.0,
+  "average_speed_mps": 3.552,
+  "average_heartrate": 146.2
 }
