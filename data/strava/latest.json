@@ -1,14 +1,14 @@
 {
-  "id": 19725494218,
-  "name": "riding that train, high on cortisol",
+  "id": 19768332013,
+  "name": "keeping the Scaries at bay!",
   "type": "Run",
-  "start_date": "2026-08-13T09:28:18Z",
-  "start_date_local": "2026-08-13T05:28:18Z",
+  "start_date": "2026-08-16T13:15:03Z",
+  "start_date_local": "2026-08-16T09:15:03Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 6582.6,
-  "moving_time_s": 2023,
-  "elapsed_time_s": 2038,
-  "total_elevation_gain_m": 52.0,
-  "average_speed_mps": 3.254,
-  "average_heartrate": 133.8
+  "distance_m": 12976.1,
+  "moving_time_s": 3369,
+  "elapsed_time_s": 3373,
+  "total_elevation_gain_m": 32.0,
+  "average_speed_mps": 3.852,
+  "average_heartrate": 154.6
 }
