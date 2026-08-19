@@ -1,14 +1,14 @@
 {
-  "id": 19795547222,
-  "name": "hope i'm not getting sick",
+  "id": 19808703256,
+  "name": "damn I remember when this was the daily dose.. good ole days!",
   "type": "Run",
-  "start_date": "2026-08-18T09:06:24Z",
-  "start_date_local": "2026-08-18T05:06:24Z",
+  "start_date": "2026-08-19T11:43:07Z",
+  "start_date_local": "2026-08-19T07:43:07Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11661.3,
-  "moving_time_s": 3533,
-  "elapsed_time_s": 3571,
-  "total_elevation_gain_m": 106.0,
-  "average_speed_mps": 3.301,
-  "average_heartrate": 130.8
+  "distance_m": 15332.4,
+  "moving_time_s": 4320,
+  "elapsed_time_s": 4374,
+  "total_elevation_gain_m": 101.0,
+  "average_speed_mps": 3.549,
+  "average_heartrate": 145.6
 }
