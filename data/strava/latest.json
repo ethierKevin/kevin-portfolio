@@ -1,14 +1,14 @@
 {
-  "id": 19808703256,
-  "name": "damn I remember when this was the daily dose.. good ole days!",
+  "id": 19823494000,
+  "name": "busy busy mind \ud83d\ude49",
   "type": "Run",
-  "start_date": "2026-08-19T11:43:07Z",
-  "start_date_local": "2026-08-19T07:43:07Z",
+  "start_date": "2026-08-20T11:59:57Z",
+  "start_date_local": "2026-08-20T07:59:57Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 15332.4,
-  "moving_time_s": 4320,
-  "elapsed_time_s": 4374,
-  "total_elevation_gain_m": 101.0,
-  "average_speed_mps": 3.549,
-  "average_heartrate": 145.6
+  "distance_m": 12556.9,
+  "moving_time_s": 3509,
+  "elapsed_time_s": 3562,
+  "total_elevation_gain_m": 93.0,
+  "average_speed_mps": 3.578,
+  "average_heartrate": 143.4
 }
