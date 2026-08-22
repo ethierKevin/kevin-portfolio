@@ -1,14 +1,14 @@
 {
-  "id": 19835098194,
-  "name": "this was supposed to be easy four | five",
+  "id": 19852528595,
+  "name": "Smooth operator on that one",
   "type": "Run",
-  "start_date": "2026-08-21T09:09:50Z",
-  "start_date_local": "2026-08-21T05:09:50Z",
+  "start_date": "2026-08-22T14:16:06Z",
+  "start_date_local": "2026-08-22T10:16:06Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12264.0,
-  "moving_time_s": 3469,
-  "elapsed_time_s": 3539,
-  "total_elevation_gain_m": 66.0,
-  "average_speed_mps": 3.535,
-  "average_heartrate": 146.1
+  "distance_m": 14053.9,
+  "moving_time_s": 3493,
+  "elapsed_time_s": 3493,
+  "total_elevation_gain_m": 22.0,
+  "average_speed_mps": 4.023,
+  "average_heartrate": 163.2
 }
