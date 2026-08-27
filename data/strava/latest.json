@@ -1,14 +1,14 @@
 {
-  "id": 19891969510,
-  "name": "Headlamp SZN is here",
+  "id": 19907893212,
+  "name": "trying to find a little quickness",
   "type": "Run",
-  "start_date": "2026-08-25T09:10:05Z",
-  "start_date_local": "2026-08-25T05:10:05Z",
+  "start_date": "2026-08-26T11:45:37Z",
+  "start_date_local": "2026-08-26T07:45:37Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12239.7,
-  "moving_time_s": 3460,
-  "elapsed_time_s": 3465,
-  "total_elevation_gain_m": 92.0,
-  "average_speed_mps": 3.537,
-  "average_heartrate": 139.4
+  "distance_m": 13239.0,
+  "moving_time_s": 3805,
+  "elapsed_time_s": 3878,
+  "total_elevation_gain_m": 63.0,
+  "average_speed_mps": 3.479,
+  "average_heartrate": 148.4
 }
