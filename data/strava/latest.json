@@ -1,14 +1,14 @@
 {
-  "id": 19921185142,
-  "name": "legs are worked",
+  "id": 19935758790,
+  "name": "This run should have been yesterday",
   "type": "Run",
-  "start_date": "2026-08-27T09:06:31Z",
-  "start_date_local": "2026-08-27T05:06:31Z",
+  "start_date": "2026-08-28T12:01:05Z",
+  "start_date_local": "2026-08-28T08:01:05Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12340.7,
-  "moving_time_s": 3585,
-  "elapsed_time_s": 3585,
-  "total_elevation_gain_m": 112.0,
-  "average_speed_mps": 3.442,
-  "average_heartrate": 142.3
+  "distance_m": 6538.9,
+  "moving_time_s": 2171,
+  "elapsed_time_s": 2175,
+  "total_elevation_gain_m": 42.0,
+  "average_speed_mps": 3.012,
+  "average_heartrate": 127.5
 }
