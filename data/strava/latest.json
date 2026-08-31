@@ -1,14 +1,14 @@
 {
-  "id": 19951226020,
-  "name": "Got the miles not the reps",
+  "id": 19969685936,
+  "name": "few quick ones before second Odyssey viewing",
   "type": "Run",
-  "start_date": "2026-08-29T13:09:01Z",
-  "start_date_local": "2026-08-29T09:09:01Z",
+  "start_date": "2026-08-30T14:49:24Z",
+  "start_date_local": "2026-08-30T10:49:24Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 20089.7,
-  "moving_time_s": 5540,
-  "elapsed_time_s": 5569,
-  "total_elevation_gain_m": 140.0,
-  "average_speed_mps": 3.626,
-  "average_heartrate": 147.1
+  "distance_m": 8873.0,
+  "moving_time_s": 2580,
+  "elapsed_time_s": 2583,
+  "total_elevation_gain_m": 91.0,
+  "average_speed_mps": 3.439,
+  "average_heartrate": 139.8
 }
