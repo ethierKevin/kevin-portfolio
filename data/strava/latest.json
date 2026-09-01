@@ -1,14 +1,14 @@
 {
-  "id": 19969685936,
-  "name": "few quick ones before second Odyssey viewing",
+  "id": 19974257254,
+  "name": "so long summer (unofficially)",
   "type": "Run",
-  "start_date": "2026-08-30T14:49:24Z",
-  "start_date_local": "2026-08-30T10:49:24Z",
+  "start_date": "2026-08-31T09:05:57Z",
+  "start_date_local": "2026-08-31T05:05:57Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 8873.0,
-  "moving_time_s": 2580,
-  "elapsed_time_s": 2583,
-  "total_elevation_gain_m": 91.0,
-  "average_speed_mps": 3.439,
-  "average_heartrate": 139.8
+  "distance_m": 12892.6,
+  "moving_time_s": 3793,
+  "elapsed_time_s": 3797,
+  "total_elevation_gain_m": 98.0,
+  "average_speed_mps": 3.399,
+  "average_heartrate": 137.9
 }
