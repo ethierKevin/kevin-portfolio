@@ -1,14 +1,14 @@
 {
-  "id": 19974257254,
-  "name": "so long summer (unofficially)",
+  "id": 19997553066,
+  "name": "slept through my alarm this morning",
   "type": "Run",
-  "start_date": "2026-08-31T09:05:57Z",
-  "start_date_local": "2026-08-31T05:05:57Z",
+  "start_date": "2026-09-01T20:36:14Z",
+  "start_date_local": "2026-09-01T16:36:14Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12892.6,
-  "moving_time_s": 3793,
-  "elapsed_time_s": 3797,
-  "total_elevation_gain_m": 98.0,
-  "average_speed_mps": 3.399,
-  "average_heartrate": 137.9
+  "distance_m": 10689.0,
+  "moving_time_s": 3059,
+  "elapsed_time_s": 3097,
+  "total_elevation_gain_m": 79.0,
+  "average_speed_mps": 3.494,
+  "average_heartrate": 138.1
 }
