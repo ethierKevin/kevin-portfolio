@@ -1,14 +1,14 @@
 {
-  "id": 20005794428,
-  "name": "did not feel as good as i would have liked",
+  "id": 20018784301,
+  "name": "Dark & Stormy \ud83c\udf0a",
   "type": "Run",
-  "start_date": "2026-09-02T11:56:06Z",
-  "start_date_local": "2026-09-02T07:56:06Z",
+  "start_date": "2026-09-03T09:06:54Z",
+  "start_date_local": "2026-09-03T05:06:54Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11590.4,
-  "moving_time_s": 2974,
-  "elapsed_time_s": 3310,
-  "total_elevation_gain_m": 19.0,
-  "average_speed_mps": 3.897,
-  "average_heartrate": 156.9
+  "distance_m": 9743.2,
+  "moving_time_s": 3381,
+  "elapsed_time_s": 3385,
+  "total_elevation_gain_m": 70.0,
+  "average_speed_mps": 2.882,
+  "average_heartrate": 126.9
 }
