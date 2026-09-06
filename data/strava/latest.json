@@ -1,14 +1,14 @@
 {
-  "id": 20034524856,
-  "name": "just some miles, good to see the sun!",
+  "id": 20048725312,
+  "name": "runaway",
   "type": "Run",
-  "start_date": "2026-09-04T11:44:28Z",
-  "start_date_local": "2026-09-04T07:44:28Z",
+  "start_date": "2026-09-05T13:09:16Z",
+  "start_date_local": "2026-09-05T09:09:16Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 14960.3,
-  "moving_time_s": 4358,
-  "elapsed_time_s": 4383,
-  "total_elevation_gain_m": 91.0,
-  "average_speed_mps": 3.433,
-  "average_heartrate": 142.1
+  "distance_m": 23138.0,
+  "moving_time_s": 6196,
+  "elapsed_time_s": 6487,
+  "total_elevation_gain_m": 155.0,
+  "average_speed_mps": 3.734,
+  "average_heartrate": 154.1
 }
