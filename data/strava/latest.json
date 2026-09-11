@@ -1,14 +1,14 @@
 {
-  "id": 20102450118,
-  "name": "Quick and dirty",
+  "id": 20114811914,
+  "name": "Recovery-y",
   "type": "Run",
-  "start_date": "2026-09-09T12:01:22Z",
-  "start_date_local": "2026-09-09T08:01:22Z",
+  "start_date": "2026-09-10T09:04:00Z",
+  "start_date_local": "2026-09-10T05:04:00Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 9338.7,
-  "moving_time_s": 2491,
-  "elapsed_time_s": 3213,
-  "total_elevation_gain_m": 8.0,
-  "average_speed_mps": 3.749,
-  "average_heartrate": 142.0
+  "distance_m": 11507.2,
+  "moving_time_s": 3603,
+  "elapsed_time_s": 3607,
+  "total_elevation_gain_m": 92.0,
+  "average_speed_mps": 3.194,
+  "average_heartrate": 134.3
 }
