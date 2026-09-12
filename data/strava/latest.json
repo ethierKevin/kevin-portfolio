@@ -1,14 +1,14 @@
 {
-  "id": 20114811914,
-  "name": "Recovery-y",
+  "id": 20130021727,
+  "name": "Wondering what will break first, the spirit or the body.",
   "type": "Run",
-  "start_date": "2026-09-10T09:04:00Z",
-  "start_date_local": "2026-09-10T05:04:00Z",
+  "start_date": "2026-09-11T11:44:04Z",
+  "start_date_local": "2026-09-11T07:44:04Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11507.2,
-  "moving_time_s": 3603,
-  "elapsed_time_s": 3607,
-  "total_elevation_gain_m": 92.0,
-  "average_speed_mps": 3.194,
-  "average_heartrate": 134.3
+  "distance_m": 15190.9,
+  "moving_time_s": 4229,
+  "elapsed_time_s": 4233,
+  "total_elevation_gain_m": 100.0,
+  "average_speed_mps": 3.592,
+  "average_heartrate": 148.0
 }
