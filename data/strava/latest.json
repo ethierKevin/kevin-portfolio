@@ -1,14 +1,14 @@
 {
-  "id": 20183186720,
-  "name": "need a loooooonnnnnnnggggggg vacation",
+  "id": 20198986918,
+  "name": "want it so bad but just forcing it",
   "type": "Run",
-  "start_date": "2026-09-15T09:05:02Z",
-  "start_date_local": "2026-09-15T05:05:02Z",
+  "start_date": "2026-09-16T11:49:33Z",
+  "start_date_local": "2026-09-16T07:49:33Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11880.0,
-  "moving_time_s": 3602,
-  "elapsed_time_s": 3606,
-  "total_elevation_gain_m": 94.0,
-  "average_speed_mps": 3.298,
-  "average_heartrate": 132.9
+  "distance_m": 1929.0,
+  "moving_time_s": 620,
+  "elapsed_time_s": 620,
+  "total_elevation_gain_m": 28.0,
+  "average_speed_mps": 3.111,
+  "average_heartrate": 124.0
 }
