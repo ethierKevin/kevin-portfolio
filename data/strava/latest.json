@@ -1,14 +1,14 @@
 {
-  "id": 20198986918,
-  "name": "want it so bad but just forcing it",
+  "id": 20212183191,
+  "name": "All I Know \u2764\ufe0f",
   "type": "Run",
-  "start_date": "2026-09-16T11:49:33Z",
-  "start_date_local": "2026-09-16T07:49:33Z",
+  "start_date": "2026-09-17T09:04:10Z",
+  "start_date_local": "2026-09-17T05:04:10Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 1929.0,
-  "moving_time_s": 620,
-  "elapsed_time_s": 620,
-  "total_elevation_gain_m": 28.0,
-  "average_speed_mps": 3.111,
-  "average_heartrate": 124.0
+  "distance_m": 12236.0,
+  "moving_time_s": 3618,
+  "elapsed_time_s": 3682,
+  "total_elevation_gain_m": 112.0,
+  "average_speed_mps": 3.382,
+  "average_heartrate": 138.9
 }
