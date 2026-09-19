@@ -1,14 +1,14 @@
 {
-  "id": 20212183191,
-  "name": "All I Know \u2764\ufe0f",
+  "id": 20228652215,
+  "name": "enjoyed this one \ud83d\ude0e",
   "type": "Run",
-  "start_date": "2026-09-17T09:04:10Z",
-  "start_date_local": "2026-09-17T05:04:10Z",
+  "start_date": "2026-09-18T11:48:38Z",
+  "start_date_local": "2026-09-18T07:48:38Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 12236.0,
-  "moving_time_s": 3618,
-  "elapsed_time_s": 3682,
-  "total_elevation_gain_m": 112.0,
-  "average_speed_mps": 3.382,
-  "average_heartrate": 138.9
+  "distance_m": 13234.7,
+  "moving_time_s": 3870,
+  "elapsed_time_s": 3965,
+  "total_elevation_gain_m": 194.0,
+  "average_speed_mps": 3.42,
+  "average_heartrate": 149.7
 }
