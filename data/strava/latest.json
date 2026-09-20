@@ -1,14 +1,14 @@
 {
-  "id": 20228652215,
-  "name": "enjoyed this one \ud83d\ude0e",
+  "id": 20242358864,
+  "name": "out for a jog",
   "type": "Run",
-  "start_date": "2026-09-18T11:48:38Z",
-  "start_date_local": "2026-09-18T07:48:38Z",
+  "start_date": "2026-09-19T13:21:17Z",
+  "start_date_local": "2026-09-19T09:21:17Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 13234.7,
-  "moving_time_s": 3870,
-  "elapsed_time_s": 3965,
-  "total_elevation_gain_m": 194.0,
-  "average_speed_mps": 3.42,
-  "average_heartrate": 149.7
+  "distance_m": 21520.6,
+  "moving_time_s": 5776,
+  "elapsed_time_s": 5838,
+  "total_elevation_gain_m": 176.0,
+  "average_speed_mps": 3.726,
+  "average_heartrate": 151.0
 }
