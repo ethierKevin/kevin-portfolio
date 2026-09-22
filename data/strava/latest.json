@@ -1,14 +1,14 @@
 {
-  "id": 20242358864,
-  "name": "out for a jog",
+  "id": 20265201030,
+  "name": "actually not sure the last time I ran with someone",
   "type": "Run",
-  "start_date": "2026-09-19T13:21:17Z",
-  "start_date_local": "2026-09-19T09:21:17Z",
+  "start_date": "2026-09-21T09:03:40Z",
+  "start_date_local": "2026-09-21T05:03:40Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 21520.6,
-  "moving_time_s": 5776,
-  "elapsed_time_s": 5838,
-  "total_elevation_gain_m": 176.0,
-  "average_speed_mps": 3.726,
-  "average_heartrate": 151.0
+  "distance_m": 11514.7,
+  "moving_time_s": 3507,
+  "elapsed_time_s": 3605,
+  "total_elevation_gain_m": 76.0,
+  "average_speed_mps": 3.283,
+  "average_heartrate": 132.9
 }
