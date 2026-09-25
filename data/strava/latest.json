@@ -1,14 +1,14 @@
 {
-  "id": 20296180641,
-  "name": "not great but better than last week!",
+  "id": 20309117455,
+  "name": "Daily dose",
   "type": "Run",
-  "start_date": "2026-09-23T11:44:40Z",
-  "start_date_local": "2026-09-23T07:44:40Z",
+  "start_date": "2026-09-24T09:02:09Z",
+  "start_date_local": "2026-09-24T05:02:09Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 13847.8,
-  "moving_time_s": 3736,
-  "elapsed_time_s": 4102,
-  "total_elevation_gain_m": 69.0,
-  "average_speed_mps": 3.707,
-  "average_heartrate": 144.8
+  "distance_m": 12245.0,
+  "moving_time_s": 3604,
+  "elapsed_time_s": 3607,
+  "total_elevation_gain_m": 96.0,
+  "average_speed_mps": 3.398,
+  "average_heartrate": 139.8
 }
