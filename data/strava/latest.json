@@ -1,14 +1,14 @@
 {
-  "id": 20362229185,
-  "name": "Nor Easter > Treadmill run",
+  "id": 20377922638,
+  "name": "poor timing == impropmptu progression for 0900 login \ud83d\ude33",
   "type": "Run",
-  "start_date": "2026-09-28T09:10:24Z",
-  "start_date_local": "2026-09-28T05:10:24Z",
+  "start_date": "2026-09-29T11:46:08Z",
+  "start_date_local": "2026-09-29T07:46:08Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11321.2,
-  "moving_time_s": 3362,
-  "elapsed_time_s": 3365,
-  "total_elevation_gain_m": 91.0,
-  "average_speed_mps": 3.367,
-  "average_heartrate": 136.3
+  "distance_m": 15435.3,
+  "moving_time_s": 4416,
+  "elapsed_time_s": 4419,
+  "total_elevation_gain_m": 102.0,
+  "average_speed_mps": 3.495,
+  "average_heartrate": 139.8
 }
