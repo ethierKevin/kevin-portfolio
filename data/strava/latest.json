@@ -1,14 +1,14 @@
 {
-  "id": 20419917517,
+  "id": 20434937749,
   "name": "Morning Run",
   "type": "Run",
-  "start_date": "2026-10-02T11:57:15Z",
-  "start_date_local": "2026-10-02T07:57:15Z",
+  "start_date": "2026-10-03T13:11:47Z",
+  "start_date_local": "2026-10-03T09:11:47Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 6544.0,
-  "moving_time_s": 2030,
-  "elapsed_time_s": 2222,
-  "total_elevation_gain_m": 37.0,
-  "average_speed_mps": 3.224,
-  "average_heartrate": 124.9
+  "distance_m": 16229.8,
+  "moving_time_s": 4623,
+  "elapsed_time_s": 4623,
+  "total_elevation_gain_m": 116.0,
+  "average_speed_mps": 3.511,
+  "average_heartrate": 144.8
 }
