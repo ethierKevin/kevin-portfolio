@@ -1,14 +1,14 @@
 {
-  "id": 20473782373,
-  "name": "Morning Run",
+  "id": 20493047255,
+  "name": "mac double",
   "type": "Run",
-  "start_date": "2026-10-06T09:03:56Z",
-  "start_date_local": "2026-10-06T05:03:56Z",
+  "start_date": "2026-10-07T17:40:31Z",
+  "start_date_local": "2026-10-07T13:40:31Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11326.0,
-  "moving_time_s": 3572,
-  "elapsed_time_s": 3586,
-  "total_elevation_gain_m": 89.0,
-  "average_speed_mps": 3.171,
-  "average_heartrate": 132.0
+  "distance_m": 7872.4,
+  "moving_time_s": 2350,
+  "elapsed_time_s": 2353,
+  "total_elevation_gain_m": 63.0,
+  "average_speed_mps": 3.35,
+  "average_heartrate": 137.7
 }
