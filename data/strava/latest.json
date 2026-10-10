@@ -1,14 +1,14 @@
 {
-  "id": 20501936460,
-  "name": "Morning Run",
+  "id": 20515186261,
+  "name": "just what the doctor ordered",
   "type": "Run",
-  "start_date": "2026-10-08T09:02:54Z",
-  "start_date_local": "2026-10-08T05:02:54Z",
+  "start_date": "2026-10-09T11:49:27Z",
+  "start_date_local": "2026-10-09T07:49:27Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11406.6,
-  "moving_time_s": 3625,
-  "elapsed_time_s": 3629,
-  "total_elevation_gain_m": 89.0,
-  "average_speed_mps": 3.147,
-  "average_heartrate": 130.0
+  "distance_m": 13409.0,
+  "moving_time_s": 4076,
+  "elapsed_time_s": 4076,
+  "total_elevation_gain_m": 92.0,
+  "average_speed_mps": 3.29,
+  "average_heartrate": 135.6
 }
