@@ -1,14 +1,14 @@
 {
-  "id": 20529680074,
-  "name": "Nice to not feel beat up after a LR",
+  "id": 20546301915,
+  "name": "first sixty mile week in a berry long time",
   "type": "Run",
-  "start_date": "2026-10-10T13:11:02Z",
-  "start_date_local": "2026-10-10T09:11:02Z",
+  "start_date": "2026-10-11T16:32:35Z",
+  "start_date_local": "2026-10-11T12:32:35Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 20092.0,
-  "moving_time_s": 5804,
-  "elapsed_time_s": 5845,
-  "total_elevation_gain_m": 171.0,
-  "average_speed_mps": 3.462,
-  "average_heartrate": 138.3
+  "distance_m": 6762.0,
+  "moving_time_s": 2084,
+  "elapsed_time_s": 2088,
+  "total_elevation_gain_m": 47.0,
+  "average_speed_mps": 3.245,
+  "average_heartrate": 131.7
 }
