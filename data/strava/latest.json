@@ -1,14 +1,14 @@
 {
-  "id": 20557730824,
-  "name": "few more for good measure",
+  "id": 20566781625,
+  "name": "debating how to safely trim my own eyebrows",
   "type": "Run",
-  "start_date": "2026-10-12T16:13:21Z",
-  "start_date_local": "2026-10-12T12:13:21Z",
+  "start_date": "2026-10-13T09:03:36Z",
+  "start_date_local": "2026-10-13T05:03:36Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 6499.0,
-  "moving_time_s": 2016,
-  "elapsed_time_s": 2016,
-  "total_elevation_gain_m": 55.0,
-  "average_speed_mps": 3.224,
-  "average_heartrate": 133.8
+  "distance_m": 11342.0,
+  "moving_time_s": 3696,
+  "elapsed_time_s": 3696,
+  "total_elevation_gain_m": 90.0,
+  "average_speed_mps": 3.069,
+  "average_heartrate": 124.6
 }
