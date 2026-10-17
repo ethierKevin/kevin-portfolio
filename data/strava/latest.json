@@ -1,14 +1,14 @@
 {
-  "id": 20594728162,
-  "name": "Slept through alarm #1 but alarm #2 FTW",
+  "id": 20608719218,
+  "name": "not easy not hard not dry",
   "type": "Run",
-  "start_date": "2026-10-15T09:07:46Z",
-  "start_date_local": "2026-10-15T05:07:46Z",
+  "start_date": "2026-10-16T11:54:51Z",
+  "start_date_local": "2026-10-16T07:54:51Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 11362.6,
-  "moving_time_s": 3723,
-  "elapsed_time_s": 3723,
-  "total_elevation_gain_m": 89.0,
-  "average_speed_mps": 3.052,
-  "average_heartrate": 126.7
+  "distance_m": 13618.0,
+  "moving_time_s": 3849,
+  "elapsed_time_s": 3863,
+  "total_elevation_gain_m": 101.0,
+  "average_speed_mps": 3.538,
+  "average_heartrate": 141.4
 }
