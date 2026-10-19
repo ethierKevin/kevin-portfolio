@@ -1,14 +1,14 @@
 {
-  "id": 20623312415,
-  "name": "Guess I didn\u2019t have as much time as I thought",
+  "id": 20640282178,
+  "name": "Afternoon Run",
   "type": "Run",
-  "start_date": "2026-10-17T13:52:23Z",
-  "start_date_local": "2026-10-17T09:52:23Z",
+  "start_date": "2026-10-18T19:34:25Z",
+  "start_date_local": "2026-10-18T15:34:25Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 9271.8,
-  "moving_time_s": 2489,
-  "elapsed_time_s": 2495,
-  "total_elevation_gain_m": 66.0,
-  "average_speed_mps": 3.725,
-  "average_heartrate": 149.0
+  "distance_m": 9777.3,
+  "moving_time_s": 3067,
+  "elapsed_time_s": 3081,
+  "total_elevation_gain_m": 77.0,
+  "average_speed_mps": 3.188,
+  "average_heartrate": 134.9
 }
