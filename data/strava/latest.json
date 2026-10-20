@@ -1,14 +1,14 @@
 {
-  "id": 20640282178,
-  "name": "Afternoon Run",
+  "id": 20645350532,
+  "name": "well sometimes you just gotta get it in",
   "type": "Run",
-  "start_date": "2026-10-18T19:34:25Z",
-  "start_date_local": "2026-10-18T15:34:25Z",
+  "start_date": "2026-10-19T09:07:17Z",
+  "start_date_local": "2026-10-19T05:07:17Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 9777.3,
-  "moving_time_s": 3067,
-  "elapsed_time_s": 3081,
-  "total_elevation_gain_m": 77.0,
-  "average_speed_mps": 3.188,
-  "average_heartrate": 134.9
+  "distance_m": 16381.0,
+  "moving_time_s": 5190,
+  "elapsed_time_s": 5196,
+  "total_elevation_gain_m": 88.0,
+  "average_speed_mps": 3.156,
+  "average_heartrate": 133.0
 }
