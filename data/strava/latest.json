@@ -1,14 +1,14 @@
 {
-  "id": 20645350532,
-  "name": "well sometimes you just gotta get it in",
+  "id": 20666555264,
+  "name": "Happy place \ud83d\ude42",
   "type": "Run",
-  "start_date": "2026-10-19T09:07:17Z",
-  "start_date_local": "2026-10-19T05:07:17Z",
+  "start_date": "2026-10-20T20:21:51Z",
+  "start_date_local": "2026-10-20T16:21:51Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 16381.0,
-  "moving_time_s": 5190,
-  "elapsed_time_s": 5196,
-  "total_elevation_gain_m": 88.0,
-  "average_speed_mps": 3.156,
-  "average_heartrate": 133.0
+  "distance_m": 8916.2,
+  "moving_time_s": 2699,
+  "elapsed_time_s": 2704,
+  "total_elevation_gain_m": 15.0,
+  "average_speed_mps": 3.304,
+  "average_heartrate": 134.9
 }
