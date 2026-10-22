@@ -1,14 +1,14 @@
 {
-  "id": 20666555264,
-  "name": "Happy place \ud83d\ude42",
+  "id": 20674429636,
+  "name": "back home to see my girls today, can't wait!",
   "type": "Run",
-  "start_date": "2026-10-20T20:21:51Z",
-  "start_date_local": "2026-10-20T16:21:51Z",
+  "start_date": "2026-10-21T11:18:25Z",
+  "start_date_local": "2026-10-21T07:18:25Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 8916.2,
-  "moving_time_s": 2699,
-  "elapsed_time_s": 2704,
-  "total_elevation_gain_m": 15.0,
-  "average_speed_mps": 3.304,
-  "average_heartrate": 134.9
+  "distance_m": 10361.3,
+  "moving_time_s": 2737,
+  "elapsed_time_s": 3003,
+  "total_elevation_gain_m": 19.0,
+  "average_speed_mps": 3.786,
+  "average_heartrate": 147.5
 }
