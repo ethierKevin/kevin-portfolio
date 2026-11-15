@@ -1,14 +1,14 @@
 {
-  "id": 20674429636,
-  "name": "back home to see my girls today, can't wait!",
+  "id": 20986245091,
+  "name": "been a little while \ud83d\ude42",
   "type": "Run",
-  "start_date": "2026-10-21T11:18:25Z",
-  "start_date_local": "2026-10-21T07:18:25Z",
+  "start_date": "2026-11-14T14:25:55Z",
+  "start_date_local": "2026-11-14T09:25:55Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 10361.3,
-  "moving_time_s": 2737,
-  "elapsed_time_s": 3003,
-  "total_elevation_gain_m": 19.0,
-  "average_speed_mps": 3.786,
-  "average_heartrate": 147.5
+  "distance_m": 13006.0,
+  "moving_time_s": 3831,
+  "elapsed_time_s": 3851,
+  "total_elevation_gain_m": 106.0,
+  "average_speed_mps": 3.395,
+  "average_heartrate": 146.4
 }
