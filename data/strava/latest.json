@@ -1,14 +1,14 @@
 {
-  "id": 20986245091,
-  "name": "been a little while \ud83d\ude42",
+  "id": 21012080914,
+  "name": "good day to be out there",
   "type": "Run",
-  "start_date": "2026-11-14T14:25:55Z",
-  "start_date_local": "2026-11-14T09:25:55Z",
+  "start_date": "2026-11-16T17:31:56Z",
+  "start_date_local": "2026-11-16T12:31:56Z",
   "timezone": "(GMT-05:00) America/New_York",
-  "distance_m": 13006.0,
-  "moving_time_s": 3831,
-  "elapsed_time_s": 3851,
-  "total_elevation_gain_m": 106.0,
-  "average_speed_mps": 3.395,
-  "average_heartrate": 146.4
+  "distance_m": 8951.1,
+  "moving_time_s": 2781,
+  "elapsed_time_s": 2827,
+  "total_elevation_gain_m": 76.0,
+  "average_speed_mps": 3.219,
+  "average_heartrate": 139.3
 }
